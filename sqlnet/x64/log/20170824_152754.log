@@ -1,0 +1,5 @@
+[15:27:54] Network connection error (id: 452 errno: 10054).
+[15:27:54] Network connection error (id: 453 errno: 10054).
+[15:27:54] Database :memory: is not used, release handle.
+[15:27:54] Network connection error (id: 454 errno: 10054).
+[15:27:54] Database .\data\poker_users.db is not used, release handle.

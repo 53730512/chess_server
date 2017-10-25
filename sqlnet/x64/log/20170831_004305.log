@@ -1,0 +1,106 @@
+[00:43:05] Network connection error (id: 170 errno: 10054).
+[00:43:05] Database .\data\poker_rooms.db is not used, release handle.
+[00:43:05] Network connection error (id: 171 errno: 10054).
+[00:43:05] Database :memory: is not used, release handle.
+[00:43:05] Network connection error (id: 172 errno: 10054).
+[00:43:05] Database .\data\poker_users.db is not used, release handle.
+[00:43:05] Network connection error (id: 173 errno: 10054).
+[00:43:05] Database .\data\poker_record.db is not used, release handle.
+[00:43:14] Connection request has been accepted (id: 174 from: 127.0.0.1:5752).
+[00:43:14] Open database .\data\poker_rooms.db successed (not an error).
+[00:43:14] Connection request has been accepted (id: 175 from: 127.0.0.1:5754).
+[00:43:14] Open database :memory: successed (not an error).
+[00:43:15] Connection request has been accepted (id: 176 from: 127.0.0.1:5755).
+[00:43:15] Open database .\data\poker_users.db successed (not an error).
+[01:21:25] Connection request has been accepted (id: 177 from: 127.0.0.1:5787).
+[01:21:25] Open database .\data\poker_record.db successed (not an error).
+[01:38:36] Network connection error (id: 174 errno: 10054).
+[01:38:36] Database .\data\poker_rooms.db is not used, release handle.
+[01:38:36] Network connection error (id: 175 errno: 10054).
+[01:38:36] Database :memory: is not used, release handle.
+[01:38:36] Network connection error (id: 176 errno: 10054).
+[01:38:36] Database .\data\poker_users.db is not used, release handle.
+[01:38:36] Network connection error (id: 177 errno: 10054).
+[01:38:36] Database .\data\poker_record.db is not used, release handle.
+[13:46:16] Connection request has been accepted (id: 178 from: 127.0.0.1:6190).
+[13:46:16] Open database .\data\poker_rooms.db successed (not an error).
+[13:46:16] Connection request has been accepted (id: 179 from: 127.0.0.1:6192).
+[13:46:16] Open database :memory: successed (not an error).
+[13:46:24] Connection request has been accepted (id: 180 from: 127.0.0.1:6193).
+[13:46:24] Open database .\data\poker_users.db successed (not an error).
+[17:47:03] Connection request has been accepted (id: 181 from: 127.0.0.1:6403).
+[17:47:03] Open database .\data\poker_record.db successed (not an error).
+[20:31:46] Network connection error (id: 178 errno: 10060).
+[20:31:46] Network connection error (id: 181 errno: 10060).
+[20:31:46] Database .\data\poker_rooms.db is not used, release handle.
+[20:31:46] Database .\data\poker_record.db is not used, release handle.
+[20:31:46] Network connection error (id: 179 errno: 10060).
+[20:31:46] Database :memory: is not used, release handle.
+[20:31:46] Network connection error (id: 180 errno: 10060).
+[20:31:46] Database .\data\poker_users.db is not used, release handle.
+[20:36:44] Connection request has been accepted (id: 182 from: 127.0.0.1:6610).
+[20:36:44] Open database .\data\poker_rooms.db successed (not an error).
+[20:36:44] Connection request has been accepted (id: 183 from: 127.0.0.1:6612).
+[20:36:44] Open database :memory: successed (not an error).
+[20:38:52] Connection request has been accepted (id: 184 from: 127.0.0.1:6625).
+[20:38:52] Open database .\data\poker_users.db successed (not an error).
+[20:38:54] Connection request has been accepted (id: 185 from: 127.0.0.1:6626).
+[20:38:54] Open database .\data\poker_record.db successed (not an error).
+[20:54:30] Network connection error (id: 182 errno: 10054).
+[20:54:30] Database .\data\poker_rooms.db is not used, release handle.
+[20:54:30] Network connection error (id: 183 errno: 10054).
+[20:54:30] Database :memory: is not used, release handle.
+[20:54:30] Network connection error (id: 184 errno: 10054).
+[20:54:30] Database .\data\poker_users.db is not used, release handle.
+[20:54:30] Network connection error (id: 185 errno: 10054).
+[20:54:30] Database .\data\poker_record.db is not used, release handle.
+[20:54:55] Connection request has been accepted (id: 186 from: 127.0.0.1:6639).
+[20:54:55] Open database .\data\poker_rooms.db successed (not an error).
+[20:54:55] Connection request has been accepted (id: 187 from: 127.0.0.1:6641).
+[20:54:55] Open database :memory: successed (not an error).
+[20:55:36] Connection request has been accepted (id: 188 from: 127.0.0.1:6642).
+[20:55:36] Open database .\data\poker_users.db successed (not an error).
+[20:56:30] Connection request has been accepted (id: 189 from: 127.0.0.1:6643).
+[20:56:30] Open database .\data\poker_record.db successed (not an error).
+[21:08:58] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[21:24:40] Network connection error (id: 186 errno: 10060).
+[21:24:40] Database .\data\poker_rooms.db is not used, release handle.
+[21:24:40] Network connection error (id: 188 errno: 10060).
+[21:24:40] Database .\data\poker_users.db is not used, release handle.
+[21:24:40] Network connection error (id: 189 errno: 10060).
+[21:24:40] Database .\data\poker_record.db is not used, release handle.
+[21:24:40] Network connection error (id: 187 errno: 10060).
+[21:24:40] Database :memory: is not used, release handle.
+[22:33:31] Connection request has been accepted (id: 190 from: 127.0.0.1:6727).
+[22:33:31] Open database .\data\poker_users.db successed (not an error).
+[22:33:31] Connection request has been accepted (id: 191 from: 127.0.0.1:6728).
+[22:33:31] Open database :memory: successed (not an error).
+[22:33:31] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:33:45] Connection request has been accepted (id: 192 from: 127.0.0.1:6758).
+[22:33:45] Open database .\data\poker_record.db successed (not an error).
+[22:40:14] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:40:17] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:40:43] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:40:45] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:41:12] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:41:15] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:46:54] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:46:57] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:47:03] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:48:25] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:50:20] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:50:26] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:52:34] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:55:15] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:56:29] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:56:35] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[22:57:18] PREPAIR delete from [user_session] where [uuid] = ? failed (db: memory error: no such table: user_session).
+[22:57:22] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[23:08:31] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[23:08:48] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).
+[23:19:03] PREPAIR insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: no such table: user_session).

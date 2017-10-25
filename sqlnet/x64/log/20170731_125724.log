@@ -1,0 +1,16 @@
+[12:57:24] Connection request has been accepted (id: 271 from: 127.0.0.1:13450).
+[12:57:24] Open database .\data\poker_rooms.db successed (not an error).
+[12:57:24] Connection request has been accepted (id: 272 from: 127.0.0.1:13452).
+[12:57:24] Open database :memory: successed (not an error).
+[12:57:28] Network connection error (id: 271 errno: 10054).
+[12:57:28] Network connection error (id: 272 errno: 10054).
+[12:57:28] Database :memory: is not used, release handle.
+[12:57:28] Database .\data\poker_rooms.db is not used, release handle.
+[12:57:31] Connection request has been accepted (id: 273 from: 127.0.0.1:13453).
+[12:57:31] Open database .\data\poker_rooms.db successed (not an error).
+[12:57:31] Connection request has been accepted (id: 274 from: 127.0.0.1:13455).
+[12:57:31] Open database :memory: successed (not an error).
+[13:29:41] Network connection error (id: 273 errno: 10054).
+[13:29:41] Database .\data\poker_rooms.db is not used, release handle.
+[13:29:41] Network connection error (id: 274 errno: 10054).
+[13:29:41] Database :memory: is not used, release handle.

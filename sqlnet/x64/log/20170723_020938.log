@@ -1,0 +1,3062 @@
+[02:09:38] Network connection error (id: 282 errno: 10054).
+[02:09:38] Database .\data\poker_rooms.db is not used, release handle.
+[02:09:38] Network connection error (id: 283 errno: 10054).
+[02:09:38] Database :memory: is not used, release handle.
+[02:09:38] Network connection error (id: 284 errno: 10054).
+[02:09:38] Database .\data\poker_users.db is not used, release handle.
+[02:09:40] Connection request has been accepted (id: 285 from: 127.0.0.1:4421).
+[02:09:40] Open database .\data\poker_rooms.db successed (not an error).
+[02:09:40] Connection request has been accepted (id: 286 from: 127.0.0.1:4423).
+[02:09:40] Open database :memory: successed (not an error).
+[02:09:40] Connection request has been accepted (id: 287 from: 127.0.0.1:4424).
+[02:09:40] Open database .\data\poker_users.db successed (not an error).
+[02:09:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:09:47] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:09:48] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:09:48] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:09:48] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:10:42] Network connection error (id: 285 errno: 10054).
+[02:10:42] Database .\data\poker_rooms.db is not used, release handle.
+[02:10:42] Network connection error (id: 286 errno: 10054).
+[02:10:42] Database :memory: is not used, release handle.
+[02:10:42] Network connection error (id: 287 errno: 10054).
+[02:10:42] Database .\data\poker_users.db is not used, release handle.
+[02:10:44] Connection request has been accepted (id: 288 from: 127.0.0.1:4427).
+[02:10:44] Open database .\data\poker_rooms.db successed (not an error).
+[02:10:44] Connection request has been accepted (id: 289 from: 127.0.0.1:4429).
+[02:10:44] Open database :memory: successed (not an error).
+[02:10:44] Connection request has been accepted (id: 290 from: 127.0.0.1:4430).
+[02:10:44] Open database .\data\poker_users.db successed (not an error).
+[02:10:48] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:10:49] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:10:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:10:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:10:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:11:37] Network connection error (id: 288 errno: 10054).
+[02:11:37] Database .\data\poker_rooms.db is not used, release handle.
+[02:11:37] Network connection error (id: 289 errno: 10054).
+[02:11:37] Database :memory: is not used, release handle.
+[02:11:37] Network connection error (id: 290 errno: 10054).
+[02:11:37] Database .\data\poker_users.db is not used, release handle.
+[02:11:38] Connection request has been accepted (id: 291 from: 127.0.0.1:4433).
+[02:11:38] Open database .\data\poker_rooms.db successed (not an error).
+[02:11:38] Connection request has been accepted (id: 292 from: 127.0.0.1:4435).
+[02:11:38] Open database :memory: successed (not an error).
+[02:11:38] Connection request has been accepted (id: 293 from: 127.0.0.1:4436).
+[02:11:38] Open database .\data\poker_users.db successed (not an error).
+[02:11:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:11:42] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:11:42] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:11:42] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:11:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:13:01] Network connection error (id: 292 errno: 10054).
+[02:13:01] Database :memory: is not used, release handle.
+[02:13:01] Network connection error (id: 293 errno: 10054).
+[02:13:01] Database .\data\poker_users.db is not used, release handle.
+[02:13:01] Network connection error (id: 291 errno: 10054).
+[02:13:01] Database .\data\poker_rooms.db is not used, release handle.
+[02:13:03] Connection request has been accepted (id: 294 from: 127.0.0.1:4444).
+[02:13:03] Open database .\data\poker_rooms.db successed (not an error).
+[02:13:03] Connection request has been accepted (id: 295 from: 127.0.0.1:4446).
+[02:13:03] Open database :memory: successed (not an error).
+[02:13:03] Connection request has been accepted (id: 296 from: 127.0.0.1:4447).
+[02:13:03] Open database .\data\poker_users.db successed (not an error).
+[02:13:05] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:13:07] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:13:08] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:13:08] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:13:08] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:13:51] Network connection error (id: 294 errno: 10054).
+[02:13:51] Database .\data\poker_rooms.db is not used, release handle.
+[02:13:51] Network connection error (id: 295 errno: 10054).
+[02:13:51] Database :memory: is not used, release handle.
+[02:13:51] Network connection error (id: 296 errno: 10054).
+[02:13:51] Database .\data\poker_users.db is not used, release handle.
+[02:13:53] Connection request has been accepted (id: 297 from: 127.0.0.1:4449).
+[02:13:53] Open database .\data\poker_rooms.db successed (not an error).
+[02:13:53] Connection request has been accepted (id: 298 from: 127.0.0.1:4451).
+[02:13:53] Open database :memory: successed (not an error).
+[02:13:53] Connection request has been accepted (id: 299 from: 127.0.0.1:4452).
+[02:13:53] Open database .\data\poker_users.db successed (not an error).
+[02:15:07] Network connection error (id: 297 errno: 10054).
+[02:15:07] Database .\data\poker_rooms.db is not used, release handle.
+[02:15:07] Network connection error (id: 298 errno: 10054).
+[02:15:07] Database :memory: is not used, release handle.
+[02:15:07] Network connection error (id: 299 errno: 10054).
+[02:15:07] Database .\data\poker_users.db is not used, release handle.
+[02:15:15] Connection request has been accepted (id: 300 from: 127.0.0.1:4454).
+[02:15:15] Open database .\data\poker_rooms.db successed (not an error).
+[02:15:15] Connection request has been accepted (id: 301 from: 127.0.0.1:4456).
+[02:15:15] Open database :memory: successed (not an error).
+[02:15:15] Connection request has been accepted (id: 302 from: 127.0.0.1:4457).
+[02:15:15] Open database .\data\poker_users.db successed (not an error).
+[02:15:19] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:15:20] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:15:20] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:15:20] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:15:21] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:15:32] Network connection error (id: 300 errno: 10054).
+[02:15:32] Database .\data\poker_rooms.db is not used, release handle.
+[02:15:32] Network connection error (id: 301 errno: 10054).
+[02:15:32] Database :memory: is not used, release handle.
+[02:15:32] Network connection error (id: 302 errno: 10054).
+[02:15:32] Database .\data\poker_users.db is not used, release handle.
+[02:17:01] Connection request has been accepted (id: 303 from: 127.0.0.1:4459).
+[02:17:01] Open database .\data\poker_rooms.db successed (not an error).
+[02:17:02] Connection request has been accepted (id: 304 from: 127.0.0.1:4461).
+[02:17:02] Open database :memory: successed (not an error).
+[02:17:02] Connection request has been accepted (id: 305 from: 127.0.0.1:4462).
+[02:17:02] Open database .\data\poker_users.db successed (not an error).
+[02:17:14] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:17:16] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:17:16] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:17:16] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:17:17] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:17:17] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:19:06] Network connection error (id: 303 errno: 10054).
+[02:19:06] Database .\data\poker_rooms.db is not used, release handle.
+[02:19:06] Network connection error (id: 304 errno: 10054).
+[02:19:06] Database :memory: is not used, release handle.
+[02:19:06] Network connection error (id: 305 errno: 10054).
+[02:19:06] Database .\data\poker_users.db is not used, release handle.
+[02:19:07] Connection request has been accepted (id: 306 from: 127.0.0.1:4468).
+[02:19:07] Open database .\data\poker_rooms.db successed (not an error).
+[02:19:07] Connection request has been accepted (id: 307 from: 127.0.0.1:4470).
+[02:19:07] Open database :memory: successed (not an error).
+[02:19:07] Connection request has been accepted (id: 308 from: 127.0.0.1:4471).
+[02:19:07] Open database .\data\poker_users.db successed (not an error).
+[02:19:18] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:19:19] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:19:19] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:19:19] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:19:19] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:19:20] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:19:20] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:20:25] Network connection error (id: 306 errno: 10054).
+[02:20:25] Database .\data\poker_rooms.db is not used, release handle.
+[02:20:25] Network connection error (id: 307 errno: 10054).
+[02:20:25] Database :memory: is not used, release handle.
+[02:20:25] Network connection error (id: 308 errno: 10054).
+[02:20:25] Database .\data\poker_users.db is not used, release handle.
+[02:20:28] Connection request has been accepted (id: 309 from: 127.0.0.1:4485).
+[02:20:28] Open database .\data\poker_rooms.db successed (not an error).
+[02:20:28] Connection request has been accepted (id: 310 from: 127.0.0.1:4487).
+[02:20:28] Open database :memory: successed (not an error).
+[02:20:29] Connection request has been accepted (id: 311 from: 127.0.0.1:4488).
+[02:20:29] Open database .\data\poker_users.db successed (not an error).
+[02:20:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:20:33] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:20:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:20:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:20:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:20:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:20:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:21:26] Network connection error (id: 309 errno: 10054).
+[02:21:26] Database .\data\poker_rooms.db is not used, release handle.
+[02:21:26] Network connection error (id: 310 errno: 10054).
+[02:21:26] Database :memory: is not used, release handle.
+[02:21:26] Network connection error (id: 311 errno: 10054).
+[02:21:26] Database .\data\poker_users.db is not used, release handle.
+[02:21:28] Connection request has been accepted (id: 312 from: 127.0.0.1:4490).
+[02:21:28] Open database .\data\poker_rooms.db successed (not an error).
+[02:21:28] Connection request has been accepted (id: 313 from: 127.0.0.1:4492).
+[02:21:28] Open database :memory: successed (not an error).
+[02:21:28] Connection request has been accepted (id: 314 from: 127.0.0.1:4493).
+[02:21:28] Open database .\data\poker_users.db successed (not an error).
+[02:21:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:21:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:21:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:21:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:21:36] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:21:36] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:21:36] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:22:18] Network connection error (id: 312 errno: 10054).
+[02:22:18] Database .\data\poker_rooms.db is not used, release handle.
+[02:22:18] Network connection error (id: 313 errno: 10054).
+[02:22:18] Database :memory: is not used, release handle.
+[02:22:18] Network connection error (id: 314 errno: 10054).
+[02:22:18] Database .\data\poker_users.db is not used, release handle.
+[02:22:19] Connection request has been accepted (id: 315 from: 127.0.0.1:4495).
+[02:22:20] Open database .\data\poker_rooms.db successed (not an error).
+[02:22:20] Connection request has been accepted (id: 316 from: 127.0.0.1:4497).
+[02:22:20] Open database :memory: successed (not an error).
+[02:22:20] Connection request has been accepted (id: 317 from: 127.0.0.1:4498).
+[02:22:20] Open database .\data\poker_users.db successed (not an error).
+[02:22:23] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:22:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:22:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:22:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:22:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:22:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:22:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:23:57] Network connection error (id: 315 errno: 10054).
+[02:23:57] Database .\data\poker_rooms.db is not used, release handle.
+[02:23:57] Network connection error (id: 316 errno: 2).
+[02:23:57] Database :memory: is not used, release handle.
+[02:23:57] Network connection error (id: 317 errno: 2).
+[02:23:57] Database .\data\poker_users.db is not used, release handle.
+[02:24:07] Connection request has been accepted (id: 318 from: 127.0.0.1:4508).
+[02:24:07] Open database .\data\poker_rooms.db successed (not an error).
+[02:24:07] Connection request has been accepted (id: 319 from: 127.0.0.1:4510).
+[02:24:07] Open database :memory: successed (not an error).
+[02:24:07] Connection request has been accepted (id: 320 from: 127.0.0.1:4511).
+[02:24:08] Open database .\data\poker_users.db successed (not an error).
+[02:24:18] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:24:23] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:24:23] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:24:23] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:24:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:24:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:24:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:24:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:24:43] Network connection error (id: 318 errno: 10054).
+[02:24:43] Database .\data\poker_rooms.db is not used, release handle.
+[02:24:43] Network connection error (id: 319 errno: 10054).
+[02:24:43] Database :memory: is not used, release handle.
+[02:24:43] Network connection error (id: 320 errno: 10054).
+[02:24:43] Database .\data\poker_users.db is not used, release handle.
+[02:25:07] Connection request has been accepted (id: 321 from: 127.0.0.1:4571).
+[02:25:07] Open database .\data\poker_rooms.db successed (not an error).
+[02:25:07] Connection request has been accepted (id: 322 from: 127.0.0.1:4573).
+[02:25:07] Open database :memory: successed (not an error).
+[02:25:07] Connection request has been accepted (id: 323 from: 127.0.0.1:4574).
+[02:25:07] Open database .\data\poker_users.db successed (not an error).
+[02:25:22] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:25:23] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:25:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:25:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:25:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:25:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:25:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:25:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:25:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:27:54] Network connection error (id: 321 errno: 10054).
+[02:27:54] Database .\data\poker_rooms.db is not used, release handle.
+[02:27:54] Network connection error (id: 322 errno: 10054).
+[02:27:54] Database :memory: is not used, release handle.
+[02:27:54] Network connection error (id: 323 errno: 10054).
+[02:27:54] Database .\data\poker_users.db is not used, release handle.
+[02:28:00] Connection request has been accepted (id: 324 from: 127.0.0.1:4578).
+[02:28:00] Open database .\data\poker_rooms.db successed (not an error).
+[02:28:00] Connection request has been accepted (id: 325 from: 127.0.0.1:4580).
+[02:28:00] Open database :memory: successed (not an error).
+[02:28:01] Connection request has been accepted (id: 326 from: 127.0.0.1:4581).
+[02:28:01] Open database .\data\poker_users.db successed (not an error).
+[02:28:04] Network connection error (id: 324 errno: 10054).
+[02:28:04] Database .\data\poker_rooms.db is not used, release handle.
+[02:28:04] Network connection error (id: 325 errno: 10054).
+[02:28:04] Database :memory: is not used, release handle.
+[02:28:04] Network connection error (id: 326 errno: 10054).
+[02:28:04] Database .\data\poker_users.db is not used, release handle.
+[02:28:52] Connection request has been accepted (id: 327 from: 127.0.0.1:4582).
+[02:28:52] Open database .\data\poker_rooms.db successed (not an error).
+[02:28:52] Connection request has been accepted (id: 328 from: 127.0.0.1:4584).
+[02:28:52] Open database :memory: successed (not an error).
+[02:28:52] Connection request has been accepted (id: 329 from: 127.0.0.1:4585).
+[02:28:52] Open database .\data\poker_users.db successed (not an error).
+[02:29:02] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:29:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:29:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:29:04] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:29:04] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:29:04] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:29:05] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:29:05] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:29:05] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:19] Network connection error (id: 327 errno: 10054).
+[02:30:19] Database .\data\poker_rooms.db is not used, release handle.
+[02:30:19] Network connection error (id: 328 errno: 10054).
+[02:30:19] Database :memory: is not used, release handle.
+[02:30:19] Network connection error (id: 329 errno: 10054).
+[02:30:19] Database .\data\poker_users.db is not used, release handle.
+[02:30:26] Connection request has been accepted (id: 330 from: 127.0.0.1:4587).
+[02:30:26] Open database .\data\poker_rooms.db successed (not an error).
+[02:30:26] Connection request has been accepted (id: 331 from: 127.0.0.1:4589).
+[02:30:26] Open database :memory: successed (not an error).
+[02:30:26] Connection request has been accepted (id: 332 from: 127.0.0.1:4590).
+[02:30:26] Open database .\data\poker_users.db successed (not an error).
+[02:30:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:33] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:33] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:33] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:33] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:30:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:35:57] Network connection error (id: 330 errno: 10054).
+[02:35:57] Database .\data\poker_rooms.db is not used, release handle.
+[02:35:57] Network connection error (id: 331 errno: 10054).
+[02:35:57] Database :memory: is not used, release handle.
+[02:35:57] Network connection error (id: 332 errno: 10054).
+[02:35:57] Database .\data\poker_users.db is not used, release handle.
+[02:36:05] Connection request has been accepted (id: 333 from: 127.0.0.1:4594).
+[02:36:05] Open database .\data\poker_rooms.db successed (not an error).
+[02:36:05] Connection request has been accepted (id: 334 from: 127.0.0.1:4596).
+[02:36:05] Open database :memory: successed (not an error).
+[02:36:05] Connection request has been accepted (id: 335 from: 127.0.0.1:4597).
+[02:36:05] Open database .\data\poker_users.db successed (not an error).
+[02:36:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:36:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:36:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:36:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:36:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:36:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:36:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:36:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:36:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:37:38] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:37:57] Network connection error (id: 333 errno: 10054).
+[02:37:57] Database .\data\poker_rooms.db is not used, release handle.
+[02:37:57] Network connection error (id: 334 errno: 10054).
+[02:37:57] Database :memory: is not used, release handle.
+[02:37:57] Network connection error (id: 335 errno: 10054).
+[02:37:57] Database .\data\poker_users.db is not used, release handle.
+[02:37:59] Connection request has been accepted (id: 336 from: 127.0.0.1:4599).
+[02:37:59] Open database .\data\poker_rooms.db successed (not an error).
+[02:37:59] Connection request has been accepted (id: 337 from: 127.0.0.1:4601).
+[02:37:59] Open database :memory: successed (not an error).
+[02:37:59] Connection request has been accepted (id: 338 from: 127.0.0.1:4602).
+[02:37:59] Open database .\data\poker_users.db successed (not an error).
+[02:38:02] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:04] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:04] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:04] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:04] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:38:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:44:23] Network connection error (id: 336 errno: 10054).
+[02:44:23] Database .\data\poker_rooms.db is not used, release handle.
+[02:44:23] Network connection error (id: 337 errno: 10054).
+[02:44:23] Database :memory: is not used, release handle.
+[02:44:23] Network connection error (id: 338 errno: 10054).
+[02:44:23] Database .\data\poker_users.db is not used, release handle.
+[02:46:19] Connection request has been accepted (id: 339 from: 127.0.0.1:4606).
+[02:46:19] Open database .\data\poker_rooms.db successed (not an error).
+[02:46:19] Connection request has been accepted (id: 340 from: 127.0.0.1:4608).
+[02:46:19] Open database :memory: successed (not an error).
+[02:46:19] Connection request has been accepted (id: 341 from: 127.0.0.1:4609).
+[02:46:19] Open database .\data\poker_users.db successed (not an error).
+[02:46:39] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:46:40] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:46:40] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:46:40] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:46:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:46:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:46:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:46:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:46:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:14] Network connection error (id: 339 errno: 10054).
+[02:47:14] Database .\data\poker_rooms.db is not used, release handle.
+[02:47:14] Network connection error (id: 340 errno: 10054).
+[02:47:14] Database :memory: is not used, release handle.
+[02:47:14] Network connection error (id: 341 errno: 10054).
+[02:47:14] Database .\data\poker_users.db is not used, release handle.
+[02:47:28] Connection request has been accepted (id: 342 from: 127.0.0.1:4611).
+[02:47:28] Open database .\data\poker_rooms.db successed (not an error).
+[02:47:28] Connection request has been accepted (id: 343 from: 127.0.0.1:4613).
+[02:47:28] Open database :memory: successed (not an error).
+[02:47:29] Connection request has been accepted (id: 344 from: 127.0.0.1:4614).
+[02:47:29] Open database .\data\poker_users.db successed (not an error).
+[02:47:31] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:31] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:33] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:36] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:47:36] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:49:50] Network connection error (id: 342 errno: 10054).
+[02:49:50] Database .\data\poker_rooms.db is not used, release handle.
+[02:49:50] Network connection error (id: 343 errno: 10054).
+[02:49:50] Database :memory: is not used, release handle.
+[02:49:50] Network connection error (id: 344 errno: 10054).
+[02:49:50] Database .\data\poker_users.db is not used, release handle.
+[02:50:23] Connection request has been accepted (id: 345 from: 127.0.0.1:4645).
+[02:50:23] Open database .\data\poker_rooms.db successed (not an error).
+[02:50:23] Connection request has been accepted (id: 346 from: 127.0.0.1:4647).
+[02:50:23] Open database :memory: successed (not an error).
+[02:50:23] Connection request has been accepted (id: 347 from: 127.0.0.1:4648).
+[02:50:23] Open database .\data\poker_users.db successed (not an error).
+[02:50:35] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:36] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:37] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:37] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:37] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:38] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:38] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:38] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:38] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:39] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:39] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:39] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:50:39] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:52:52] Network connection error (id: 345 errno: 10054).
+[02:52:52] Database .\data\poker_rooms.db is not used, release handle.
+[02:52:52] Network connection error (id: 346 errno: 10054).
+[02:52:52] Database :memory: is not used, release handle.
+[02:52:52] Network connection error (id: 347 errno: 10054).
+[02:52:52] Database .\data\poker_users.db is not used, release handle.
+[02:53:03] Connection request has been accepted (id: 348 from: 127.0.0.1:4653).
+[02:53:04] Open database .\data\poker_rooms.db successed (not an error).
+[02:53:04] Connection request has been accepted (id: 349 from: 127.0.0.1:4655).
+[02:53:04] Open database :memory: successed (not an error).
+[02:53:04] Connection request has been accepted (id: 350 from: 127.0.0.1:4656).
+[02:53:04] Open database .\data\poker_users.db successed (not an error).
+[02:53:10] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:11] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:11] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:11] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:12] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:12] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:12] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:12] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:13] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:13] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:13] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:13] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:14] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:53:14] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:57:13] Network connection error (id: 348 errno: 10054).
+[02:57:13] Database .\data\poker_rooms.db is not used, release handle.
+[02:57:13] Network connection error (id: 349 errno: 10054).
+[02:57:13] Database :memory: is not used, release handle.
+[02:57:13] Network connection error (id: 350 errno: 10054).
+[02:57:13] Database .\data\poker_users.db is not used, release handle.
+[02:57:48] Connection request has been accepted (id: 351 from: 127.0.0.1:4668).
+[02:57:48] Open database .\data\poker_rooms.db successed (not an error).
+[02:57:48] Connection request has been accepted (id: 352 from: 127.0.0.1:4670).
+[02:57:48] Open database :memory: successed (not an error).
+[02:57:48] Connection request has been accepted (id: 353 from: 127.0.0.1:4671).
+[02:57:49] Open database .\data\poker_users.db successed (not an error).
+[02:58:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:05] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:05] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:06] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:06] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:06] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:06] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:07] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:07] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:07] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:07] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:08] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:08] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:58:08] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[02:59:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100625
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:01:24] Network connection error (id: 351 errno: 10054).
+[03:01:24] Database .\data\poker_rooms.db is not used, release handle.
+[03:01:24] Network connection error (id: 352 errno: 10054).
+[03:01:24] Database :memory: is not used, release handle.
+[03:01:24] Network connection error (id: 353 errno: 10054).
+[03:01:24] Database .\data\poker_users.db is not used, release handle.
+[03:01:52] Connection request has been accepted (id: 354 from: 127.0.0.1:4676).
+[03:01:52] Open database .\data\poker_rooms.db successed (not an error).
+[03:01:52] Connection request has been accepted (id: 355 from: 127.0.0.1:4678).
+[03:01:52] Open database :memory: successed (not an error).
+[03:01:52] Connection request has been accepted (id: 356 from: 127.0.0.1:4679).
+[03:01:52] Open database .\data\poker_users.db successed (not an error).
+[03:01:53] Network connection error (id: 354 errno: 10054).
+[03:01:53] Database .\data\poker_rooms.db is not used, release handle.
+[03:01:53] Network connection error (id: 355 errno: 10054).
+[03:01:53] Database :memory: is not used, release handle.
+[03:01:53] Network connection error (id: 356 errno: 10054).
+[03:01:53] Database .\data\poker_users.db is not used, release handle.
+[03:02:03] Connection request has been accepted (id: 357 from: 127.0.0.1:4680).
+[03:02:03] Open database .\data\poker_rooms.db successed (not an error).
+[03:02:04] Connection request has been accepted (id: 358 from: 127.0.0.1:4682).
+[03:02:04] Open database :memory: successed (not an error).
+[03:02:04] Connection request has been accepted (id: 359 from: 127.0.0.1:4683).
+[03:02:04] Open database .\data\poker_users.db successed (not an error).
+[03:02:07] Network connection error (id: 357 errno: 10054).
+[03:02:07] Database .\data\poker_rooms.db is not used, release handle.
+[03:02:07] Network connection error (id: 358 errno: 10054).
+[03:02:07] Database :memory: is not used, release handle.
+[03:02:07] Network connection error (id: 359 errno: 10054).
+[03:02:07] Database .\data\poker_users.db is not used, release handle.
+[03:03:32] Connection request has been accepted (id: 360 from: 127.0.0.1:4688).
+[03:03:32] Open database .\data\poker_rooms.db successed (not an error).
+[03:03:32] Connection request has been accepted (id: 361 from: 127.0.0.1:4690).
+[03:03:32] Open database :memory: successed (not an error).
+[03:03:39] Network connection error (id: 360 errno: 10054).
+[03:03:39] Database .\data\poker_rooms.db is not used, release handle.
+[03:03:39] Network connection error (id: 361 errno: 10054).
+[03:03:39] Database :memory: is not used, release handle.
+[03:04:12] Connection request has been accepted (id: 362 from: 127.0.0.1:4691).
+[03:04:12] Open database .\data\poker_rooms.db successed (not an error).
+[03:04:12] Connection request has been accepted (id: 363 from: 127.0.0.1:4693).
+[03:04:12] Open database :memory: successed (not an error).
+[03:04:13] Connection request has been accepted (id: 364 from: 127.0.0.1:4694).
+[03:04:13] Open database .\data\poker_users.db successed (not an error).
+[03:04:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:26] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:26] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:26] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:26] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:04:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:05:07] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100625
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:05:38] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100276
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:28] Network connection error (id: 362 errno: 10054).
+[03:06:28] Database .\data\poker_rooms.db is not used, release handle.
+[03:06:28] Network connection error (id: 363 errno: 10054).
+[03:06:28] Database :memory: is not used, release handle.
+[03:06:28] Network connection error (id: 364 errno: 10054).
+[03:06:28] Database .\data\poker_users.db is not used, release handle.
+[03:06:35] Connection request has been accepted (id: 365 from: 127.0.0.1:4696).
+[03:06:36] Open database .\data\poker_rooms.db successed (not an error).
+[03:06:36] Connection request has been accepted (id: 366 from: 127.0.0.1:4698).
+[03:06:36] Open database :memory: successed (not an error).
+[03:06:36] Connection request has been accepted (id: 367 from: 127.0.0.1:4699).
+[03:06:36] Open database .\data\poker_users.db successed (not an error).
+[03:06:46] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:47] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:48] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:48] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:49] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:49] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:49] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:49] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:06:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[03:07:37] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100625
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:10] Network connection error (id: 365 errno: 10054).
+[05:42:10] Database .\data\poker_rooms.db is not used, release handle.
+[05:42:10] Network connection error (id: 366 errno: 10054).
+[05:42:10] Database :memory: is not used, release handle.
+[05:42:10] Network connection error (id: 367 errno: 10054).
+[05:42:10] Database .\data\poker_users.db is not used, release handle.
+[05:42:15] Connection request has been accepted (id: 368 from: 127.0.0.1:4747).
+[05:42:15] Open database .\data\poker_rooms.db successed (not an error).
+[05:42:15] Connection request has been accepted (id: 369 from: 127.0.0.1:4749).
+[05:42:15] Open database :memory: successed (not an error).
+[05:42:33] Connection request has been accepted (id: 370 from: 127.0.0.1:4751).
+[05:42:33] Open database .\data\poker_users.db successed (not an error).
+[05:42:48] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:52] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:52] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:52] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:52] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:52] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:53] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:42:53] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:58:40] Network connection error (id: 368 errno: 10054).
+[05:58:40] Database .\data\poker_rooms.db is not used, release handle.
+[05:58:40] Network connection error (id: 369 errno: 10054).
+[05:58:40] Database :memory: is not used, release handle.
+[05:58:40] Network connection error (id: 370 errno: 10054).
+[05:58:40] Database .\data\poker_users.db is not used, release handle.
+[05:59:12] Connection request has been accepted (id: 371 from: 127.0.0.1:4768).
+[05:59:12] Open database .\data\poker_rooms.db successed (not an error).
+[05:59:12] Connection request has been accepted (id: 372 from: 127.0.0.1:4770).
+[05:59:12] Open database :memory: successed (not an error).
+[05:59:12] Connection request has been accepted (id: 373 from: 127.0.0.1:4771).
+[05:59:12] Open database .\data\poker_users.db successed (not an error).
+[05:59:39] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:41] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:42] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:42] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:42] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:44] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:44] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100491
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[05:59:44] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100625
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:29] Network connection error (id: 371 errno: 10054).
+[06:01:29] Network connection error (id: 372 errno: 10054).
+[06:01:29] Database :memory: is not used, release handle.
+[06:01:29] Network connection error (id: 373 errno: 10054).
+[06:01:29] Database .\data\poker_users.db is not used, release handle.
+[06:01:29] Database .\data\poker_rooms.db is not used, release handle.
+[06:01:36] Connection request has been accepted (id: 374 from: 127.0.0.1:4786).
+[06:01:36] Open database .\data\poker_rooms.db successed (not an error).
+[06:01:37] Connection request has been accepted (id: 375 from: 127.0.0.1:4788).
+[06:01:37] Open database :memory: successed (not an error).
+[06:01:37] Connection request has been accepted (id: 376 from: 127.0.0.1:4789).
+[06:01:37] Open database .\data\poker_users.db successed (not an error).
+[06:01:49] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:50] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:52] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:52] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:52] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:53] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:53] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:53] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:53] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:53] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100491
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:54] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100625
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:54] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100146
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:01:54] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100276
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:38] Network connection error (id: 374 errno: 10054).
+[06:04:38] Database .\data\poker_rooms.db is not used, release handle.
+[06:04:38] Network connection error (id: 375 errno: 10054).
+[06:04:38] Database :memory: is not used, release handle.
+[06:04:38] Network connection error (id: 376 errno: 10054).
+[06:04:38] Database .\data\poker_users.db is not used, release handle.
+[06:04:45] Connection request has been accepted (id: 377 from: 127.0.0.1:4794).
+[06:04:45] Open database .\data\poker_rooms.db successed (not an error).
+[06:04:45] Connection request has been accepted (id: 378 from: 127.0.0.1:4796).
+[06:04:45] Open database :memory: successed (not an error).
+[06:04:45] Connection request has been accepted (id: 379 from: 127.0.0.1:4800).
+[06:04:45] Open database .\data\poker_users.db successed (not an error).
+[06:04:56] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:56] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:57] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:57] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:57] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:57] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:58] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:58] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:58] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:59] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:59] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:59] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:59] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:59] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:04:59] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100491
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:05:00] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100625
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:05:00] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100146
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:05:01] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100276
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:05:01] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100151
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:08:48] Network connection error (id: 377 errno: 10054).
+[06:08:48] Database .\data\poker_rooms.db is not used, release handle.
+[06:08:48] Network connection error (id: 378 errno: 10054).
+[06:08:48] Database :memory: is not used, release handle.
+[06:08:48] Network connection error (id: 379 errno: 10054).
+[06:08:48] Database .\data\poker_users.db is not used, release handle.
+[06:09:15] Connection request has been accepted (id: 380 from: 127.0.0.1:4806).
+[06:09:15] Open database .\data\poker_rooms.db successed (not an error).
+[06:09:15] Connection request has been accepted (id: 381 from: 127.0.0.1:4808).
+[06:09:15] Open database :memory: successed (not an error).
+[06:09:16] Connection request has been accepted (id: 382 from: 127.0.0.1:4809).
+[06:09:16] Open database .\data\poker_users.db successed (not an error).
+[06:09:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:26] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:26] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100607
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100908
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100778
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100952
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100752
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100221
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100925
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100543
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100393
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100491
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100625
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:30] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100146
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:30] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100276
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:09:30] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100151
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[06:12:33] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[06:12:37] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[06:14:42] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[06:14:48] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+

@@ -1,0 +1,14 @@
+[11:58:28] Network connection error (id: 383 errno: 10054).
+[11:58:28] Network connection error (id: 384 errno: 10054).
+[11:58:28] Database :memory: is not used, release handle.
+[11:58:28] Network connection error (id: 386 errno: 10054).
+[11:58:28] Network connection error (id: 385 errno: 10054).
+[11:58:28] Database .\data\poker_users.db is not used, release handle.
+[11:58:32] Connection request has been accepted (id: 387 from: 127.0.0.1:18918).
+[11:58:32] Open database .\data\poker_rooms.db successed (not an error).
+[11:58:32] Connection request has been accepted (id: 388 from: 127.0.0.1:18920).
+[11:58:32] Open database :memory: successed (not an error).
+[11:58:44] Connection request has been accepted (id: 389 from: 127.0.0.1:18921).
+[11:58:44] Open database .\data\poker_users.db successed (not an error).
+[12:08:51] Connection request has been accepted (id: 390 from: 127.0.0.1:19088).
+[12:08:51] Open database .\data\poker_record.db successed (not an error).

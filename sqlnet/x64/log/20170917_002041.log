@@ -1,0 +1,6 @@
+[00:20:41] Network connection error (id: 136 errno: 10060).
+[00:20:41] Database .\data\poker_rooms.db is not used, release handle.
+[00:20:41] Network connection error (id: 138 errno: 10060).
+[00:20:41] Database .\data\poker_users.db is not used, release handle.
+[00:20:41] Network connection error (id: 137 errno: 10060).
+[00:20:41] Database :memory: is not used, release handle.

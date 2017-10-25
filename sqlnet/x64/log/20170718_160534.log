@@ -1,0 +1,8 @@
+[16:05:34] Connection request has been accepted (id: 104 from: 127.0.0.1:8481).
+[16:05:34] Open database .\data\poker_rooms.db successed (not an error).
+[16:05:34] Connection request has been accepted (id: 105 from: 127.0.0.1:8483).
+[16:05:34] Open database :memory: successed (not an error).
+[16:05:39] Network connection error (id: 104 errno: 10054).
+[16:05:39] Database .\data\poker_rooms.db is not used, release handle.
+[16:05:39] Network connection error (id: 105 errno: 10054).
+[16:05:39] Database :memory: is not used, release handle.

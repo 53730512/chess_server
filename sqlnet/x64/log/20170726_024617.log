@@ -1,0 +1,280 @@
+[02:46:17] Connection request has been accepted (id: 101 from: 127.0.0.1:1978).
+[02:46:17] Open database .\data\poker_rooms.db successed (not an error).
+[02:46:17] Connection request has been accepted (id: 102 from: 127.0.0.1:1980).
+[02:46:17] Open database :memory: successed (not an error).
+[02:46:22] Connection request has been accepted (id: 103 from: 127.0.0.1:1981).
+[02:46:22] Open database .\data\poker_users.db successed (not an error).
+[02:48:28] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[02:48:30] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[02:51:14] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[02:51:16] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[02:51:29] Network connection error (id: 101 errno: 10054).
+[02:51:29] Network connection error (id: 102 errno: 10054).
+[02:51:29] Database :memory: is not used, release handle.
+[02:51:29] Network connection error (id: 103 errno: 10054).
+[02:51:29] Database .\data\poker_rooms.db is not used, release handle.
+[02:51:29] Database .\data\poker_users.db is not used, release handle.
+[02:51:35] Connection request has been accepted (id: 104 from: 127.0.0.1:1990).
+[02:51:35] Open database .\data\poker_rooms.db successed (not an error).
+[02:51:35] Connection request has been accepted (id: 105 from: 127.0.0.1:1992).
+[02:51:35] Open database :memory: successed (not an error).
+[02:51:35] Connection request has been accepted (id: 106 from: 127.0.0.1:1993).
+[02:51:35] Open database .\data\poker_users.db successed (not an error).
+[10:11:53] Network connection error (id: 104 errno: 10054).
+[10:11:53] Database .\data\poker_rooms.db is not used, release handle.
+[10:11:53] Network connection error (id: 105 errno: 10054).
+[10:11:53] Database :memory: is not used, release handle.
+[10:11:53] Network connection error (id: 106 errno: 10054).
+[10:11:53] Database .\data\poker_users.db is not used, release handle.
+[10:12:15] Connection request has been accepted (id: 107 from: 127.0.0.1:2410).
+[10:12:15] Open database .\data\poker_rooms.db successed (not an error).
+[10:12:15] Connection request has been accepted (id: 108 from: 127.0.0.1:2412).
+[10:12:15] Open database :memory: successed (not an error).
+[10:12:28] Connection request has been accepted (id: 109 from: 127.0.0.1:2414).
+[10:12:28] Open database .\data\poker_users.db successed (not an error).
+[11:00:26] Network connection error (id: 107 errno: 10054).
+[11:00:26] Database .\data\poker_rooms.db is not used, release handle.
+[11:00:26] Network connection error (id: 108 errno: 10054).
+[11:00:26] Database :memory: is not used, release handle.
+[11:00:26] Network connection error (id: 109 errno: 10054).
+[11:00:26] Database .\data\poker_users.db is not used, release handle.
+[11:00:33] Connection request has been accepted (id: 110 from: 127.0.0.1:2497).
+[11:00:33] Open database .\data\poker_rooms.db successed (not an error).
+[11:00:33] Connection request has been accepted (id: 111 from: 127.0.0.1:2499).
+[11:00:33] Open database :memory: successed (not an error).
+[11:00:33] Connection request has been accepted (id: 112 from: 127.0.0.1:2500).
+[11:00:33] Open database .\data\poker_users.db successed (not an error).
+[11:02:36] Network connection error (id: 110 errno: 10054).
+[11:02:36] Database .\data\poker_rooms.db is not used, release handle.
+[11:02:36] Network connection error (id: 111 errno: 10054).
+[11:02:36] Database :memory: is not used, release handle.
+[11:02:36] Network connection error (id: 112 errno: 10054).
+[11:02:36] Database .\data\poker_users.db is not used, release handle.
+[11:02:42] Connection request has been accepted (id: 113 from: 127.0.0.1:2507).
+[11:02:42] Open database .\data\poker_rooms.db successed (not an error).
+[11:02:42] Connection request has been accepted (id: 114 from: 127.0.0.1:2509).
+[11:02:42] Open database :memory: successed (not an error).
+[11:02:42] Connection request has been accepted (id: 115 from: 127.0.0.1:2510).
+[11:02:42] Open database .\data\poker_users.db successed (not an error).
+[11:43:52] Network connection error (id: 113 errno: 10054).
+[11:43:52] Database .\data\poker_rooms.db is not used, release handle.
+[11:43:52] Network connection error (id: 114 errno: 10054).
+[11:43:52] Database :memory: is not used, release handle.
+[11:43:52] Network connection error (id: 115 errno: 10054).
+[11:43:52] Database .\data\poker_users.db is not used, release handle.
+[11:44:23] Connection request has been accepted (id: 116 from: 127.0.0.1:2561).
+[11:44:23] Open database .\data\poker_rooms.db successed (not an error).
+[11:44:23] Connection request has been accepted (id: 117 from: 127.0.0.1:2563).
+[11:44:23] Open database :memory: successed (not an error).
+[11:44:23] Connection request has been accepted (id: 118 from: 127.0.0.1:2564).
+[11:44:23] Open database .\data\poker_users.db successed (not an error).
+[11:44:25] Network connection error (id: 116 errno: 10054).
+[11:44:25] Database .\data\poker_rooms.db is not used, release handle.
+[11:44:25] Network connection error (id: 117 errno: 10054).
+[11:44:25] Database :memory: is not used, release handle.
+[11:44:25] Network connection error (id: 118 errno: 10054).
+[11:44:25] Database .\data\poker_users.db is not used, release handle.
+[11:44:29] Connection request has been accepted (id: 119 from: 127.0.0.1:2567).
+[11:44:29] Open database .\data\poker_rooms.db successed (not an error).
+[11:44:30] Connection request has been accepted (id: 120 from: 127.0.0.1:2569).
+[11:44:30] Open database :memory: successed (not an error).
+[11:44:30] Connection request has been accepted (id: 121 from: 127.0.0.1:2570).
+[11:44:30] Open database .\data\poker_users.db successed (not an error).
+[11:44:33] Network connection error (id: 119 errno: 10054).
+[11:44:33] Database .\data\poker_rooms.db is not used, release handle.
+[11:44:33] Network connection error (id: 120 errno: 10054).
+[11:44:33] Database :memory: is not used, release handle.
+[11:44:33] Network connection error (id: 121 errno: 10054).
+[11:44:33] Database .\data\poker_users.db is not used, release handle.
+[11:47:42] Connection request has been accepted (id: 122 from: 127.0.0.1:2606).
+[11:47:42] Open database .\data\poker_rooms.db successed (not an error).
+[11:47:42] Connection request has been accepted (id: 123 from: 127.0.0.1:2608).
+[11:47:42] Open database :memory: successed (not an error).
+[11:47:42] Connection request has been accepted (id: 124 from: 127.0.0.1:2609).
+[11:47:42] Open database .\data\poker_users.db successed (not an error).
+[11:56:41] Network connection error (id: 122 errno: 10054).
+[11:56:41] Database .\data\poker_rooms.db is not used, release handle.
+[11:56:41] Network connection error (id: 123 errno: 10054).
+[11:56:41] Database :memory: is not used, release handle.
+[11:56:41] Network connection error (id: 124 errno: 10054).
+[11:56:41] Database .\data\poker_users.db is not used, release handle.
+[11:59:29] Connection request has been accepted (id: 125 from: 127.0.0.1:2639).
+[11:59:29] Open database .\data\poker_rooms.db successed (not an error).
+[11:59:29] Connection request has been accepted (id: 126 from: 127.0.0.1:2641).
+[11:59:29] Open database :memory: successed (not an error).
+[11:59:29] Connection request has been accepted (id: 127 from: 127.0.0.1:2642).
+[11:59:29] Open database .\data\poker_users.db successed (not an error).
+[12:07:53] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[12:54:56] Network connection error (id: 125 errno: 10054).
+[12:54:56] Database .\data\poker_rooms.db is not used, release handle.
+[12:54:56] Network connection error (id: 126 errno: 10054).
+[12:54:56] Database :memory: is not used, release handle.
+[12:54:56] Network connection error (id: 127 errno: 10054).
+[12:54:56] Database .\data\poker_users.db is not used, release handle.
+[12:55:04] Connection request has been accepted (id: 128 from: 127.0.0.1:2710).
+[12:55:04] Open database .\data\poker_rooms.db successed (not an error).
+[12:55:04] Connection request has been accepted (id: 129 from: 127.0.0.1:2712).
+[12:55:04] Open database :memory: successed (not an error).
+[12:55:05] Connection request has been accepted (id: 130 from: 127.0.0.1:2713).
+[12:55:05] Open database .\data\poker_users.db successed (not an error).
+[13:01:19] Network connection error (id: 128 errno: 10054).
+[13:01:19] Network connection error (id: 129 errno: 10054).
+[13:01:19] Database :memory: is not used, release handle.
+[13:01:19] Network connection error (id: 130 errno: 10054).
+[13:01:19] Database .\data\poker_users.db is not used, release handle.
+[13:01:19] Database .\data\poker_rooms.db is not used, release handle.
+[14:35:02] Connection request has been accepted (id: 131 from: 127.0.0.1:2853).
+[14:35:02] Open database .\data\poker_rooms.db successed (not an error).
+[14:35:02] Connection request has been accepted (id: 132 from: 127.0.0.1:2855).
+[14:35:02] Open database :memory: successed (not an error).
+[14:35:10] Connection request has been accepted (id: 133 from: 127.0.0.1:2856).
+[14:35:10] Open database .\data\poker_users.db successed (not an error).
+[14:57:52] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[15:14:59] Network connection error (id: 131 errno: 10054).
+[15:14:59] Database .\data\poker_rooms.db is not used, release handle.
+[15:14:59] Network connection error (id: 132 errno: 10054).
+[15:14:59] Database :memory: is not used, release handle.
+[15:14:59] Network connection error (id: 133 errno: 10054).
+[15:14:59] Database .\data\poker_users.db is not used, release handle.
+[15:15:05] Connection request has been accepted (id: 134 from: 127.0.0.1:2872).
+[15:15:05] Open database .\data\poker_rooms.db successed (not an error).
+[15:15:05] Connection request has been accepted (id: 135 from: 127.0.0.1:2874).
+[15:15:05] Open database :memory: successed (not an error).
+[15:15:08] Connection request has been accepted (id: 136 from: 127.0.0.1:2875).
+[15:15:08] Open database .\data\poker_users.db successed (not an error).
+[15:20:14] Network connection error (id: 134 errno: 10054).
+[15:20:14] Database .\data\poker_rooms.db is not used, release handle.
+[15:20:14] Network connection error (id: 135 errno: 10054).
+[15:20:14] Database :memory: is not used, release handle.
+[15:20:14] Network connection error (id: 136 errno: 10054).
+[15:20:14] Database .\data\poker_users.db is not used, release handle.
+[15:20:16] Connection request has been accepted (id: 137 from: 127.0.0.1:2880).
+[15:20:16] Open database .\data\poker_rooms.db successed (not an error).
+[15:20:16] Connection request has been accepted (id: 138 from: 127.0.0.1:2882).
+[15:20:16] Open database :memory: successed (not an error).
+[15:20:16] Connection request has been accepted (id: 139 from: 127.0.0.1:2883).
+[15:20:16] Open database .\data\poker_users.db successed (not an error).
+[15:21:38] Network connection error (id: 137 errno: 10054).
+[15:21:38] Database .\data\poker_rooms.db is not used, release handle.
+[15:21:38] Network connection error (id: 138 errno: 10054).
+[15:21:38] Database :memory: is not used, release handle.
+[15:21:38] Network connection error (id: 139 errno: 10054).
+[15:21:38] Database .\data\poker_users.db is not used, release handle.
+[15:21:47] Connection request has been accepted (id: 140 from: 127.0.0.1:2884).
+[15:21:47] Open database .\data\poker_rooms.db successed (not an error).
+[15:21:47] Connection request has been accepted (id: 141 from: 127.0.0.1:2886).
+[15:21:47] Open database :memory: successed (not an error).
+[15:21:48] Connection request has been accepted (id: 142 from: 127.0.0.1:2887).
+[15:21:48] Open database .\data\poker_users.db successed (not an error).
+[15:37:59] Network connection error (id: 140 errno: 10054).
+[15:37:59] Database .\data\poker_rooms.db is not used, release handle.
+[15:37:59] Network connection error (id: 141 errno: 10054).
+[15:37:59] Database :memory: is not used, release handle.
+[15:37:59] Network connection error (id: 142 errno: 10054).
+[15:37:59] Database .\data\poker_users.db is not used, release handle.
+[15:38:08] Connection request has been accepted (id: 143 from: 127.0.0.1:2920).
+[15:38:08] Open database .\data\poker_rooms.db successed (not an error).
+[15:38:08] Connection request has been accepted (id: 144 from: 127.0.0.1:2922).
+[15:38:08] Open database :memory: successed (not an error).
+[15:38:08] Connection request has been accepted (id: 145 from: 127.0.0.1:2923).
+[15:38:08] Open database .\data\poker_users.db successed (not an error).
+[16:09:20] Connection request has been accepted (id: 146 from: 127.0.0.1:2957).
+[16:09:20] Open database .\data\poker_record.db successed (not an error).
+[16:22:49] Network connection error (id: 143 errno: 10054).
+[16:22:49] Database .\data\poker_rooms.db is not used, release handle.
+[16:22:49] Network connection error (id: 144 errno: 10054).
+[16:22:49] Database :memory: is not used, release handle.
+[16:22:49] Network connection error (id: 145 errno: 10054).
+[16:22:49] Database .\data\poker_users.db is not used, release handle.
+[16:22:49] Network connection error (id: 146 errno: 10054).
+[16:22:49] Database .\data\poker_record.db is not used, release handle.
+[16:24:12] Connection request has been accepted (id: 147 from: 127.0.0.1:2967).
+[16:24:12] Open database .\data\poker_rooms.db successed (not an error).
+[16:24:12] Connection request has been accepted (id: 148 from: 127.0.0.1:2969).
+[16:24:12] Open database :memory: successed (not an error).
+[16:24:12] Connection request has been accepted (id: 149 from: 127.0.0.1:2970).
+[16:24:12] Open database .\data\poker_users.db successed (not an error).
+[16:28:38] Network connection error (id: 147 errno: 10054).
+[16:28:38] Database .\data\poker_rooms.db is not used, release handle.
+[16:28:38] Network connection error (id: 148 errno: 10054).
+[16:28:38] Database :memory: is not used, release handle.
+[16:28:38] Network connection error (id: 149 errno: 10054).
+[16:28:38] Database .\data\poker_users.db is not used, release handle.
+[16:28:48] Connection request has been accepted (id: 150 from: 127.0.0.1:2973).
+[16:28:48] Open database .\data\poker_rooms.db successed (not an error).
+[16:28:48] Connection request has been accepted (id: 151 from: 127.0.0.1:2975).
+[16:28:48] Open database :memory: successed (not an error).
+[16:28:48] Connection request has been accepted (id: 152 from: 127.0.0.1:2976).
+[16:28:48] Open database .\data\poker_users.db successed (not an error).
+[16:42:27] Network connection error (id: 150 errno: 10054).
+[16:42:27] Database .\data\poker_rooms.db is not used, release handle.
+[16:42:27] Network connection error (id: 151 errno: 10054).
+[16:42:27] Database :memory: is not used, release handle.
+[16:42:27] Network connection error (id: 152 errno: 10054).
+[16:42:27] Database .\data\poker_users.db is not used, release handle.
+[16:42:35] Connection request has been accepted (id: 153 from: 127.0.0.1:2994).
+[16:42:35] Open database .\data\poker_rooms.db successed (not an error).
+[16:42:35] Connection request has been accepted (id: 154 from: 127.0.0.1:2996).
+[16:42:35] Open database :memory: successed (not an error).
+[16:42:35] Connection request has been accepted (id: 155 from: 127.0.0.1:2997).
+[16:42:35] Open database .\data\poker_users.db successed (not an error).
+[17:01:49] Network connection error (id: 153 errno: 10054).
+[17:01:49] Database .\data\poker_rooms.db is not used, release handle.
+[17:01:49] Network connection error (id: 154 errno: 10054).
+[17:01:49] Database :memory: is not used, release handle.
+[17:01:49] Network connection error (id: 155 errno: 10054).
+[17:01:49] Database .\data\poker_users.db is not used, release handle.
+[17:02:00] Connection request has been accepted (id: 156 from: 127.0.0.1:3011).
+[17:02:00] Open database .\data\poker_rooms.db successed (not an error).
+[17:02:00] Connection request has been accepted (id: 157 from: 127.0.0.1:3013).
+[17:02:00] Open database :memory: successed (not an error).
+[17:02:00] Connection request has been accepted (id: 158 from: 127.0.0.1:3014).
+[17:02:00] Open database .\data\poker_users.db successed (not an error).
+[17:18:29] Network connection error (id: 156 errno: 10054).
+[17:18:29] Database .\data\poker_rooms.db is not used, release handle.
+[17:18:29] Network connection error (id: 157 errno: 10054).
+[17:18:29] Database :memory: is not used, release handle.
+[17:18:29] Network connection error (id: 158 errno: 10054).
+[17:18:29] Database .\data\poker_users.db is not used, release handle.
+[17:18:39] Connection request has been accepted (id: 159 from: 127.0.0.1:3037).
+[17:18:39] Open database .\data\poker_rooms.db successed (not an error).
+[17:18:39] Connection request has been accepted (id: 160 from: 127.0.0.1:3039).
+[17:18:40] Open database :memory: successed (not an error).
+[17:18:40] Connection request has been accepted (id: 161 from: 127.0.0.1:3040).
+[17:18:40] Open database .\data\poker_users.db successed (not an error).
+[19:11:02] Network connection error (id: 159 errno: 10054).
+[19:11:02] Database .\data\poker_rooms.db is not used, release handle.
+[19:11:02] Network connection error (id: 160 errno: 10054).
+[19:11:02] Database :memory: is not used, release handle.
+[19:11:02] Network connection error (id: 161 errno: 10054).
+[19:11:02] Database .\data\poker_users.db is not used, release handle.

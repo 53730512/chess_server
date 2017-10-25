@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="publish|Win32">
+      <Configuration>publish</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="publish|x64">
+      <Configuration>publish</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\algo\srp6.cpp" />
+    <ClCompile Include="src\io_config.cpp" />
+    <ClCompile Include="src\io_database.cpp" />
+    <ClCompile Include="src\io_handler.cpp" />
+    <ClCompile Include="src\io_player.cpp" />
+    <ClCompile Include="src\majhong\base\algo_base.h" />
+    <ClCompile Include="src\majhong\base\player_base.cpp" />
+    <ClCompile Include="src\majhong\base\room_base.cpp" />
+    <ClCompile Include="src\majhong\hongzhong\room_zhong.cpp" />
+    <ClCompile Include="src\majhong\hongzhong\zhong_player.cpp" />
+    <ClCompile Include="src\majhong\taojiang\room_taoj.cpp" />
+    <ClCompile Include="src\majhong\taojiang\taojiang_player.cpp" />
+    <ClCompile Include="src\majhong\zhuanzhuan\room_zhuanzhuan.cpp" />
+    <ClCompile Include="src\majhong\zhuanzhuan\zhuanzhuan_player.cpp" />
+    <ClCompile Include="src\poker\niuniu\room_niuniu.cpp" />
+    <ClCompile Include="src\poker\paodk\room_paodk.cpp" />
+    <ClCompile Include="src\poker\zhajh\room_zhajh.cpp" />
+    <ClCompile Include="src\room_basic.cpp" />
+    <ClCompile Include="src\server_main.cpp" />
+    <ClCompile Include="src\service\http\io_perform.cpp" />
+    <ClCompile Include="src\service\http\io_service.cpp" />
+    <ClCompile Include="src\service\json\jsoncpp.cpp" />
+    <ClCompile Include="src\service\unicode.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\algo\srp6.h" />
+    <ClInclude Include="src\io_config.h" />
+    <ClInclude Include="src\io_database.h" />
+    <ClInclude Include="src\io_handler.h" />
+    <ClInclude Include="src\io_player.h" />
+    <ClInclude Include="src\io_protocol.h" />
+    <ClInclude Include="src\majhong\base\game_rules.h" />
+    <ClInclude Include="src\majhong\base\player_base.h" />
+    <ClInclude Include="src\majhong\base\room_base.h" />
+    <ClInclude Include="src\majhong\hongzhong\room_zhong.h" />
+    <ClInclude Include="src\majhong\hongzhong\zhong_algo.h" />
+    <ClInclude Include="src\majhong\hongzhong\zhong_player.h" />
+    <ClInclude Include="src\majhong\mj.h" />
+    <ClInclude Include="src\majhong\protocol.h" />
+    <ClInclude Include="src\majhong\taojiang\room_taoj.h" />
+    <ClInclude Include="src\majhong\taojiang\taojiang_player.h" />
+    <ClInclude Include="src\majhong\taojiang\taoj_algo.h" />
+    <ClInclude Include="src\majhong\zhuanzhuan\room_zhuanzhuan.h" />
+    <ClInclude Include="src\majhong\zhuanzhuan\zhuanzhuan_algo.h" />
+    <ClInclude Include="src\majhong\zhuanzhuan\zhuanzhuan_player.h" />
+    <ClInclude Include="src\poker\niuniu\game_rules.h" />
+    <ClInclude Include="src\poker\niuniu\protocol.h" />
+    <ClInclude Include="src\poker\niuniu\room_niuniu.h" />
+    <ClInclude Include="src\poker\paodk\game_rules.h" />
+    <ClInclude Include="src\poker\paodk\protocol.h" />
+    <ClInclude Include="src\poker\paodk\room_paodk.h" />
+    <ClInclude Include="src\poker\poker.h" />
+    <ClInclude Include="src\poker\zhajh\game_rules.h" />
+    <ClInclude Include="src\poker\zhajh\protocol.h" />
+    <ClInclude Include="src\poker\zhajh\room_zhajh.h" />
+    <ClInclude Include="src\room_any.h" />
+    <ClInclude Include="src\room_basic.h" />
+    <ClInclude Include="src\service\algo\base64.h" />
+    <ClInclude Include="src\service\algo\sha1.h" />
+    <ClInclude Include="src\service\debug.h" />
+    <ClInclude Include="src\service\http\io_header.h" />
+    <ClInclude Include="src\service\http\io_parser.h" />
+    <ClInclude Include="src\service\http\io_perform.h" />
+    <ClInclude Include="src\service\http\io_service.h" />
+    <ClInclude Include="src\service\http\io_service.hpp" />
+    <ClInclude Include="src\service\json\json.h" />
+    <ClInclude Include="src\service\unicode.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{0E4DFCDD-3A32-45BD-B8C0-85793451FB72}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>chess_server</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110_xp</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110_xp</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='publish|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='publish|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='publish|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='publish|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>lib\npx;lib\zlib;lib\curl;lib\sql;$(IncludePath)</IncludePath>
+    <LibraryPath>lib\npx\x86;lib\zlib\x86;lib\curl\x86;lib\sql\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)bin\x86\debug\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>lib\npx;lib\zlib;lib\curl;lib\sql;$(IncludePath)</IncludePath>
+    <LibraryPath>lib\npx\x86;lib\zlib\x86;lib\curl\x86;lib\sql\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>lib\npx;lib\zlib;lib\curl;lib\sql;$(IncludePath)</IncludePath>
+    <LibraryPath>lib\npx\x86;lib\zlib\x86;lib\curl\x86;lib\sql\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)bin\x86\release\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='publish|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>lib\npx;lib\zlib;lib\curl;lib\sql;$(IncludePath)</IncludePath>
+    <LibraryPath>lib\npx\x86;lib\zlib\x86;lib\curl\x86;lib\sql\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)bin\x86\publish\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>lib\npx;lib\zlib;lib\curl;lib\sql;$(IncludePath)</IncludePath>
+    <LibraryPath>lib\npx\x86;lib\zlib\x86;lib\curl\x86;lib\sql\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='publish|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>lib\npx;lib\zlib;lib\curl;lib\sql;$(IncludePath)</IncludePath>
+    <LibraryPath>lib\npx\x64;lib\zlib\x64;lib\curl\x64;lib\sql\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_WARNINGS;ZLIB_WINAPI;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_WARNINGS;ZLIB_WINAPI;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_WARNINGS;ZLIB_WINAPI;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='publish|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_WARNINGS;POKER_PUBLISH;ZLIB_WINAPI;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_WARNINGS;ZLIB_WINAPI;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='publish|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_WARNINGS;POKER_PUBLISH;ZLIB_WINAPI;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,24 @@
+[01:16:10] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[01:43:13] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[09:59:52] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[10:04:06] Network connection error (id: 268 errno: 10054).
+[10:04:06] Database .\data\poker_rooms.db is not used, release handle.
+[10:04:06] Network connection error (id: 269 errno: 10054).
+[10:04:06] Database :memory: is not used, release handle.
+[10:04:06] Network connection error (id: 270 errno: 10054).
+[10:04:06] Database .\data\poker_users.db is not used, release handle.

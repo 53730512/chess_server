@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="工程文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="工程文件\framework">
+      <UniqueIdentifier>{192cb14e-9b5d-4b2f-926a-31e413f395ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\framework\io_service">
+      <UniqueIdentifier>{a9b6237c-985a-439b-a18e-70052725ed3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\poker">
+      <UniqueIdentifier>{14432ee2-028b-4e5d-9c9b-99495ed2d844}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\poker\rooms">
+      <UniqueIdentifier>{d1857874-cbf4-41ff-83df-1ac9ac1097e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\poker\rooms\niuniu">
+      <UniqueIdentifier>{cd925b8e-c72f-4d8b-b24c-df7cdb4bb6b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\framework\io_service\json">
+      <UniqueIdentifier>{cb8cb09b-dfc7-4bac-82e8-31e22b5b86b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\framework\io_service\http">
+      <UniqueIdentifier>{8b952e93-91b9-47ef-aba2-3ef6e627850a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\framework\io_service\algo">
+      <UniqueIdentifier>{647c4c82-2355-421d-bb89-88785ca22d0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\basic">
+      <UniqueIdentifier>{5ed8ea7b-4a64-4456-a0d5-61ed6638a09f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\poker\rooms\paodk">
+      <UniqueIdentifier>{c101dd85-abeb-4c00-8591-45fbc618c266}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\poker\rooms\zhajh">
+      <UniqueIdentifier>{7a3cfa0f-2181-4814-8122-8a1984ea8be8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\mahjong">
+      <UniqueIdentifier>{9472b22e-55e4-43ff-9627-1d489781dea2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\mahjong\rooms">
+      <UniqueIdentifier>{f5f153ac-8b40-4cb8-9b08-22aeb5fcae51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\mahjong\rooms\taojiang">
+      <UniqueIdentifier>{c133e5b9-4ce8-4c82-96de-c6fb71d7e4b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\mahjong\rooms\base">
+      <UniqueIdentifier>{d33e4b92-467b-4fb3-9cb3-6de132981c0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\mahjong\rooms\zhuanzhuan">
+      <UniqueIdentifier>{d7aa9518-cf37-4f04-a712-25b6e335662d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="工程文件\mahjong\rooms\hongzhong">
+      <UniqueIdentifier>{0036a6f3-4c5d-46df-aa2d-006ea4cc6634}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\server_main.cpp">
+      <Filter>工程文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\io_handler.cpp">
+      <Filter>工程文件\framework</Filter>
+    </ClCompile>
+    <ClCompile Include="src\io_player.cpp">
+      <Filter>工程文件\framework</Filter>
+    </ClCompile>
+    <ClCompile Include="src\service\json\jsoncpp.cpp">
+      <Filter>工程文件\framework\io_service\json</Filter>
+    </ClCompile>
+    <ClCompile Include="src\service\http\io_perform.cpp">
+      <Filter>工程文件\framework\io_service\http</Filter>
+    </ClCompile>
+    <ClCompile Include="src\service\http\io_service.cpp">
+      <Filter>工程文件\framework\io_service\http</Filter>
+    </ClCompile>
+    <ClCompile Include="src\poker\niuniu\room_niuniu.cpp">
+      <Filter>工程文件\poker\rooms\niuniu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\io_config.cpp">
+      <Filter>工程文件\framework</Filter>
+    </ClCompile>
+    <ClCompile Include="src\io_database.cpp">
+      <Filter>工程文件\framework</Filter>
+    </ClCompile>
+    <ClCompile Include="src\room_basic.cpp">
+      <Filter>工程文件\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="src\service\unicode.cpp">
+      <Filter>工程文件\framework\io_service</Filter>
+    </ClCompile>
+    <ClCompile Include="src\poker\paodk\room_paodk.cpp">
+      <Filter>工程文件\poker\rooms\paodk</Filter>
+    </ClCompile>
+    <ClCompile Include="src\algo\srp6.cpp">
+      <Filter>工程文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\poker\zhajh\room_zhajh.cpp">
+      <Filter>工程文件\poker\rooms\zhajh</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\taojiang\room_taoj.cpp">
+      <Filter>工程文件\mahjong\rooms\taojiang</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\base\player_base.cpp">
+      <Filter>工程文件\mahjong\rooms\base</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\base\room_base.cpp">
+      <Filter>工程文件\mahjong\rooms\base</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\taojiang\taojiang_player.cpp">
+      <Filter>工程文件\mahjong\rooms\taojiang</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\base\algo_base.h">
+      <Filter>工程文件\mahjong\rooms\base</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\zhuanzhuan\room_zhuanzhuan.cpp">
+      <Filter>工程文件\mahjong\rooms\zhuanzhuan</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\zhuanzhuan\zhuanzhuan_player.cpp">
+      <Filter>工程文件\mahjong\rooms\zhuanzhuan</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\hongzhong\room_zhong.cpp">
+      <Filter>工程文件\mahjong\rooms\hongzhong</Filter>
+    </ClCompile>
+    <ClCompile Include="src\majhong\hongzhong\zhong_player.cpp">
+      <Filter>工程文件\mahjong\rooms\hongzhong</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\io_player.h">
+      <Filter>工程文件\framework</Filter>
+    </ClInclude>
+    <ClInclude Include="src\io_handler.h">
+      <Filter>工程文件\framework</Filter>
+    </ClInclude>
+    <ClInclude Include="src\io_protocol.h">
+      <Filter>工程文件\framework</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\debug.h">
+      <Filter>工程文件\framework\io_service</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\json\json.h">
+      <Filter>工程文件\framework\io_service\json</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\http\io_header.h">
+      <Filter>工程文件\framework\io_service\http</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\http\io_parser.h">
+      <Filter>工程文件\framework\io_service\http</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\http\io_perform.h">
+      <Filter>工程文件\framework\io_service\http</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\http\io_service.h">
+      <Filter>工程文件\framework\io_service\http</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\http\io_service.hpp">
+      <Filter>工程文件\framework\io_service\http</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\algo\base64.h">
+      <Filter>工程文件\framework\io_service\algo</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\algo\sha1.h">
+      <Filter>工程文件\framework\io_service\algo</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\niuniu\game_rules.h">
+      <Filter>工程文件\poker\rooms\niuniu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\niuniu\room_niuniu.h">
+      <Filter>工程文件\poker\rooms\niuniu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\poker.h">
+      <Filter>工程文件\poker</Filter>
+    </ClInclude>
+    <ClInclude Include="src\io_config.h">
+      <Filter>工程文件\framework</Filter>
+    </ClInclude>
+    <ClInclude Include="src\io_database.h">
+      <Filter>工程文件\framework</Filter>
+    </ClInclude>
+    <ClInclude Include="src\room_basic.h">
+      <Filter>工程文件\basic</Filter>
+    </ClInclude>
+    <ClInclude Include="src\room_any.h">
+      <Filter>工程文件\basic</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\niuniu\protocol.h">
+      <Filter>工程文件\poker\rooms\niuniu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\service\unicode.h">
+      <Filter>工程文件\framework\io_service</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\paodk\game_rules.h">
+      <Filter>工程文件\poker\rooms\paodk</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\paodk\protocol.h">
+      <Filter>工程文件\poker\rooms\paodk</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\paodk\room_paodk.h">
+      <Filter>工程文件\poker\rooms\paodk</Filter>
+    </ClInclude>
+    <ClInclude Include="src\algo\srp6.h">
+      <Filter>工程文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\zhajh\game_rules.h">
+      <Filter>工程文件\poker\rooms\zhajh</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\zhajh\protocol.h">
+      <Filter>工程文件\poker\rooms\zhajh</Filter>
+    </ClInclude>
+    <ClInclude Include="src\poker\zhajh\room_zhajh.h">
+      <Filter>工程文件\poker\rooms\zhajh</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\mj.h">
+      <Filter>工程文件\mahjong</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\taojiang\room_taoj.h">
+      <Filter>工程文件\mahjong\rooms\taojiang</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\taojiang\taoj_algo.h">
+      <Filter>工程文件\mahjong\rooms\taojiang</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\base\player_base.h">
+      <Filter>工程文件\mahjong\rooms\base</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\base\room_base.h">
+      <Filter>工程文件\mahjong\rooms\base</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\taojiang\taojiang_player.h">
+      <Filter>工程文件\mahjong\rooms\taojiang</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\base\game_rules.h">
+      <Filter>工程文件\mahjong\rooms\base</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\protocol.h">
+      <Filter>工程文件\mahjong</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\zhuanzhuan\room_zhuanzhuan.h">
+      <Filter>工程文件\mahjong\rooms\zhuanzhuan</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\zhuanzhuan\zhuanzhuan_algo.h">
+      <Filter>工程文件\mahjong\rooms\zhuanzhuan</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\zhuanzhuan\zhuanzhuan_player.h">
+      <Filter>工程文件\mahjong\rooms\zhuanzhuan</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\hongzhong\room_zhong.h">
+      <Filter>工程文件\mahjong\rooms\hongzhong</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\hongzhong\zhong_algo.h">
+      <Filter>工程文件\mahjong\rooms\hongzhong</Filter>
+    </ClInclude>
+    <ClInclude Include="src\majhong\hongzhong\zhong_player.h">
+      <Filter>工程文件\mahjong\rooms\hongzhong</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

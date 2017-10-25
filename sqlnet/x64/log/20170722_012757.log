@@ -1,0 +1,883 @@
+[01:27:57] Network connection error (id: 179 errno: 10054).
+[01:27:57] Network connection error (id: 180 errno: 10054).
+[01:27:57] Database :memory: is not used, release handle.
+[01:27:57] Network connection error (id: 181 errno: 10054).
+[01:27:57] Database .\data\poker_users.db is not used, release handle.
+[01:27:57] Database .\data\poker_rooms.db is not used, release handle.
+[01:28:26] Connection request has been accepted (id: 182 from: 127.0.0.1:2575).
+[01:28:26] Open database .\data\poker_rooms.db successed (not an error).
+[01:28:26] Connection request has been accepted (id: 183 from: 127.0.0.1:2577).
+[01:28:26] Open database :memory: successed (not an error).
+[01:28:27] Connection request has been accepted (id: 184 from: 127.0.0.1:2578).
+[01:28:27] Open database .\data\poker_users.db successed (not an error).
+[01:34:21] Network connection error (id: 182 errno: 10054).
+[01:34:21] Database .\data\poker_rooms.db is not used, release handle.
+[01:34:21] Network connection error (id: 183 errno: 10054).
+[01:34:21] Database :memory: is not used, release handle.
+[01:34:21] Network connection error (id: 184 errno: 10054).
+[01:34:21] Database .\data\poker_users.db is not used, release handle.
+[01:34:29] Connection request has been accepted (id: 185 from: 127.0.0.1:2603).
+[01:34:29] Open database .\data\poker_rooms.db successed (not an error).
+[01:34:29] Connection request has been accepted (id: 186 from: 127.0.0.1:2605).
+[01:34:29] Open database :memory: successed (not an error).
+[01:34:29] Connection request has been accepted (id: 187 from: 127.0.0.1:2606).
+[01:34:29] Open database .\data\poker_users.db successed (not an error).
+[01:35:21] Network connection error (id: 185 errno: 10054).
+[01:35:21] Database .\data\poker_rooms.db is not used, release handle.
+[01:35:21] Network connection error (id: 186 errno: 10054).
+[01:35:21] Database :memory: is not used, release handle.
+[01:35:21] Network connection error (id: 187 errno: 10054).
+[01:35:21] Database .\data\poker_users.db is not used, release handle.
+[01:35:27] Connection request has been accepted (id: 188 from: 127.0.0.1:2607).
+[01:35:27] Open database .\data\poker_rooms.db successed (not an error).
+[01:35:27] Connection request has been accepted (id: 189 from: 127.0.0.1:2609).
+[01:35:27] Open database :memory: successed (not an error).
+[01:35:27] Connection request has been accepted (id: 190 from: 127.0.0.1:2610).
+[01:35:27] Open database .\data\poker_users.db successed (not an error).
+[01:37:05] Network connection error (id: 188 errno: 10054).
+[01:37:05] Database .\data\poker_rooms.db is not used, release handle.
+[01:37:05] Network connection error (id: 189 errno: 10054).
+[01:37:05] Database :memory: is not used, release handle.
+[01:37:05] Network connection error (id: 190 errno: 10054).
+[01:37:05] Database .\data\poker_users.db is not used, release handle.
+[01:37:45] Connection request has been accepted (id: 191 from: 127.0.0.1:2614).
+[01:37:45] Open database .\data\poker_rooms.db successed (not an error).
+[01:37:45] Connection request has been accepted (id: 192 from: 127.0.0.1:2616).
+[01:37:45] Open database :memory: successed (not an error).
+[01:37:45] Connection request has been accepted (id: 193 from: 127.0.0.1:2617).
+[01:37:45] Open database .\data\poker_users.db successed (not an error).
+[01:37:47] Network connection error (id: 191 errno: 10054).
+[01:37:47] Database .\data\poker_rooms.db is not used, release handle.
+[01:37:47] Network connection error (id: 192 errno: 10054).
+[01:37:47] Database :memory: is not used, release handle.
+[01:37:47] Network connection error (id: 193 errno: 10054).
+[01:37:47] Database .\data\poker_users.db is not used, release handle.
+[01:37:50] Connection request has been accepted (id: 194 from: 127.0.0.1:2618).
+[01:37:50] Open database .\data\poker_rooms.db successed (not an error).
+[01:37:50] Connection request has been accepted (id: 195 from: 127.0.0.1:2620).
+[01:37:50] Open database :memory: successed (not an error).
+[01:37:51] Connection request has been accepted (id: 196 from: 127.0.0.1:2621).
+[01:37:51] Open database .\data\poker_users.db successed (not an error).
+[01:39:47] Network connection error (id: 194 errno: 10054).
+[01:39:47] Database .\data\poker_rooms.db is not used, release handle.
+[01:39:47] Network connection error (id: 195 errno: 10054).
+[01:39:47] Database :memory: is not used, release handle.
+[01:39:47] Network connection error (id: 196 errno: 10054).
+[01:39:47] Database .\data\poker_users.db is not used, release handle.
+[01:39:54] Connection request has been accepted (id: 197 from: 127.0.0.1:2622).
+[01:39:54] Open database .\data\poker_rooms.db successed (not an error).
+[01:39:54] Connection request has been accepted (id: 198 from: 127.0.0.1:2624).
+[01:39:54] Open database :memory: successed (not an error).
+[01:39:54] Connection request has been accepted (id: 199 from: 127.0.0.1:2625).
+[01:39:54] Open database .\data\poker_users.db successed (not an error).
+[01:40:09] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100559
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[01:44:25] Network connection error (id: 197 errno: 10054).
+[01:44:25] Database .\data\poker_rooms.db is not used, release handle.
+[01:44:25] Network connection error (id: 198 errno: 10054).
+[01:44:25] Database :memory: is not used, release handle.
+[01:44:25] Network connection error (id: 199 errno: 10054).
+[01:44:25] Database .\data\poker_users.db is not used, release handle.
+[01:44:30] Connection request has been accepted (id: 200 from: 127.0.0.1:2639).
+[01:44:30] Open database .\data\poker_rooms.db successed (not an error).
+[01:44:30] Connection request has been accepted (id: 201 from: 127.0.0.1:2641).
+[01:44:31] Open database :memory: successed (not an error).
+[01:44:31] Connection request has been accepted (id: 202 from: 127.0.0.1:2642).
+[01:44:31] Open database .\data\poker_users.db successed (not an error).
+[01:48:21] Network connection error (id: 200 errno: 10054).
+[01:48:21] Network connection error (id: 201 errno: 10054).
+[01:48:21] Database :memory: is not used, release handle.
+[01:48:21] Network connection error (id: 202 errno: 10054).
+[01:48:21] Database .\data\poker_users.db is not used, release handle.
+[01:48:21] Database .\data\poker_rooms.db is not used, release handle.
+[01:48:31] Connection request has been accepted (id: 203 from: 127.0.0.1:2679).
+[01:48:31] Open database .\data\poker_rooms.db successed (not an error).
+[01:48:31] Connection request has been accepted (id: 204 from: 127.0.0.1:2681).
+[01:48:31] Open database :memory: successed (not an error).
+[01:48:31] Connection request has been accepted (id: 205 from: 127.0.0.1:2682).
+[01:48:32] Open database .\data\poker_users.db successed (not an error).
+[01:53:00] Network connection error (id: 203 errno: 10054).
+[01:53:00] Database .\data\poker_rooms.db is not used, release handle.
+[01:53:00] Network connection error (id: 204 errno: 10054).
+[01:53:00] Database :memory: is not used, release handle.
+[01:53:00] Network connection error (id: 205 errno: 10054).
+[01:53:00] Database .\data\poker_users.db is not used, release handle.
+[01:53:27] Connection request has been accepted (id: 206 from: 127.0.0.1:2722).
+[01:53:27] Open database .\data\poker_rooms.db successed (not an error).
+[01:53:27] Connection request has been accepted (id: 207 from: 127.0.0.1:2724).
+[01:53:27] Open database :memory: successed (not an error).
+[01:53:27] Connection request has been accepted (id: 208 from: 127.0.0.1:2725).
+[01:53:27] Open database .\data\poker_users.db successed (not an error).
+[01:55:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100305
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[01:58:46] Network connection error (id: 206 errno: 10054).
+[01:58:46] Database .\data\poker_rooms.db is not used, release handle.
+[01:58:46] Network connection error (id: 207 errno: 10054).
+[01:58:46] Database :memory: is not used, release handle.
+[01:58:46] Network connection error (id: 208 errno: 10054).
+[01:58:46] Database .\data\poker_users.db is not used, release handle.
+[01:59:13] Connection request has been accepted (id: 209 from: 127.0.0.1:2745).
+[01:59:13] Open database .\data\poker_rooms.db successed (not an error).
+[01:59:13] Connection request has been accepted (id: 210 from: 127.0.0.1:2747).
+[01:59:13] Open database :memory: successed (not an error).
+[01:59:13] Connection request has been accepted (id: 211 from: 127.0.0.1:2748).
+[01:59:13] Open database .\data\poker_users.db successed (not an error).
+[07:46:54] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[08:22:22] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[08:59:05] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[09:50:14] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[09:50:32] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[11:16:24] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[11:21:47] Network connection error (id: 209 errno: 10054).
+[11:21:47] Database .\data\poker_rooms.db is not used, release handle.
+[11:21:47] Network connection error (id: 210 errno: 10054).
+[11:21:47] Database :memory: is not used, release handle.
+[11:21:47] Network connection error (id: 211 errno: 10054).
+[11:21:47] Database .\data\poker_users.db is not used, release handle.
+[11:22:11] Connection request has been accepted (id: 212 from: 127.0.0.1:3744).
+[11:22:11] Open database .\data\poker_rooms.db successed (not an error).
+[11:22:11] Connection request has been accepted (id: 213 from: 127.0.0.1:3746).
+[11:22:11] Open database :memory: successed (not an error).
+[11:22:11] Connection request has been accepted (id: 214 from: 127.0.0.1:3747).
+[11:22:11] Open database .\data\poker_users.db successed (not an error).
+[11:26:14] Network connection error (id: 212 errno: 10054).
+[11:26:14] Database .\data\poker_rooms.db is not used, release handle.
+[11:26:14] Network connection error (id: 213 errno: 10054).
+[11:26:14] Database :memory: is not used, release handle.
+[11:26:14] Network connection error (id: 214 errno: 10054).
+[11:26:14] Database .\data\poker_users.db is not used, release handle.
+[11:26:42] Connection request has been accepted (id: 215 from: 127.0.0.1:3753).
+[11:26:42] Open database .\data\poker_rooms.db successed (not an error).
+[11:26:42] Connection request has been accepted (id: 216 from: 127.0.0.1:3755).
+[11:26:42] Open database :memory: successed (not an error).
+[11:26:42] Connection request has been accepted (id: 217 from: 127.0.0.1:3756).
+[11:26:42] Open database .\data\poker_users.db successed (not an error).
+[11:29:19] Network connection error (id: 215 errno: 10054).
+[11:29:19] Database .\data\poker_rooms.db is not used, release handle.
+[11:29:19] Network connection error (id: 216 errno: 10054).
+[11:29:19] Database :memory: is not used, release handle.
+[11:29:19] Network connection error (id: 217 errno: 10054).
+[11:29:19] Database .\data\poker_users.db is not used, release handle.
+[11:31:10] Connection request has been accepted (id: 218 from: 127.0.0.1:3775).
+[11:31:10] Open database .\data\poker_rooms.db successed (not an error).
+[11:31:10] Connection request has been accepted (id: 219 from: 127.0.0.1:3777).
+[11:31:10] Open database :memory: successed (not an error).
+[11:31:10] Connection request has been accepted (id: 220 from: 127.0.0.1:3778).
+[11:31:10] Open database .\data\poker_users.db successed (not an error).
+[12:11:39] Network connection error (id: 218 errno: 10054).
+[12:11:39] Database .\data\poker_rooms.db is not used, release handle.
+[12:11:39] Network connection error (id: 219 errno: 10054).
+[12:11:39] Database :memory: is not used, release handle.
+[12:11:39] Network connection error (id: 220 errno: 10054).
+[12:11:39] Database .\data\poker_users.db is not used, release handle.
+[12:12:23] Connection request has been accepted (id: 221 from: 127.0.0.1:3831).
+[12:12:23] Open database .\data\poker_rooms.db successed (not an error).
+[12:12:23] Connection request has been accepted (id: 222 from: 127.0.0.1:3833).
+[12:12:23] Open database :memory: successed (not an error).
+[12:12:23] Connection request has been accepted (id: 223 from: 127.0.0.1:3834).
+[12:12:23] Open database .\data\poker_users.db successed (not an error).
+[12:17:05] Network connection error (id: 221 errno: 10054).
+[12:17:05] Database .\data\poker_rooms.db is not used, release handle.
+[12:17:05] Network connection error (id: 222 errno: 10054).
+[12:17:05] Database :memory: is not used, release handle.
+[12:17:05] Network connection error (id: 223 errno: 10054).
+[12:17:05] Database .\data\poker_users.db is not used, release handle.
+[12:17:06] Connection request has been accepted (id: 224 from: 127.0.0.1:3842).
+[12:17:06] Open database .\data\poker_rooms.db successed (not an error).
+[12:17:06] Connection request has been accepted (id: 225 from: 127.0.0.1:3844).
+[12:17:06] Open database :memory: successed (not an error).
+[12:17:06] Connection request has been accepted (id: 226 from: 127.0.0.1:3845).
+[12:17:06] Open database .\data\poker_users.db successed (not an error).
+[12:18:06] Network connection error (id: 224 errno: 10054).
+[12:18:06] Database .\data\poker_rooms.db is not used, release handle.
+[12:18:06] Network connection error (id: 225 errno: 10054).
+[12:18:06] Database :memory: is not used, release handle.
+[12:18:06] Network connection error (id: 226 errno: 10054).
+[12:18:06] Database .\data\poker_users.db is not used, release handle.
+[12:18:13] Connection request has been accepted (id: 227 from: 127.0.0.1:3853).
+[12:18:13] Open database .\data\poker_rooms.db successed (not an error).
+[12:18:13] Connection request has been accepted (id: 228 from: 127.0.0.1:3855).
+[12:18:13] Open database :memory: successed (not an error).
+[12:18:13] Connection request has been accepted (id: 229 from: 127.0.0.1:3856).
+[12:18:13] Open database .\data\poker_users.db successed (not an error).
+[12:19:19] Network connection error (id: 227 errno: 10054).
+[12:19:19] Database .\data\poker_rooms.db is not used, release handle.
+[12:19:19] Network connection error (id: 228 errno: 10054).
+[12:19:19] Database :memory: is not used, release handle.
+[12:19:19] Network connection error (id: 229 errno: 10054).
+[12:19:19] Database .\data\poker_users.db is not used, release handle.
+[12:19:21] Connection request has been accepted (id: 230 from: 127.0.0.1:3858).
+[12:19:21] Open database .\data\poker_rooms.db successed (not an error).
+[12:19:21] Connection request has been accepted (id: 231 from: 127.0.0.1:3860).
+[12:19:21] Open database :memory: successed (not an error).
+[12:19:21] Connection request has been accepted (id: 232 from: 127.0.0.1:3861).
+[12:19:21] Open database .\data\poker_users.db successed (not an error).
+[12:21:13] Network connection error (id: 230 errno: 10054).
+[12:21:13] Database .\data\poker_rooms.db is not used, release handle.
+[12:21:13] Network connection error (id: 231 errno: 10054).
+[12:21:13] Database :memory: is not used, release handle.
+[12:21:13] Network connection error (id: 232 errno: 10054).
+[12:21:13] Database .\data\poker_users.db is not used, release handle.
+[12:21:15] Connection request has been accepted (id: 233 from: 127.0.0.1:3862).
+[12:21:15] Open database .\data\poker_rooms.db successed (not an error).
+[12:21:15] Connection request has been accepted (id: 234 from: 127.0.0.1:3864).
+[12:21:15] Open database :memory: successed (not an error).
+[12:21:15] Connection request has been accepted (id: 235 from: 127.0.0.1:3865).
+[12:21:15] Open database .\data\poker_users.db successed (not an error).
+[12:22:01] Network connection error (id: 233 errno: 10054).
+[12:22:01] Database .\data\poker_rooms.db is not used, release handle.
+[12:22:01] Network connection error (id: 234 errno: 10054).
+[12:22:01] Database :memory: is not used, release handle.
+[12:22:01] Network connection error (id: 235 errno: 10054).
+[12:22:01] Database .\data\poker_users.db is not used, release handle.
+[12:22:03] Connection request has been accepted (id: 236 from: 127.0.0.1:3867).
+[12:22:03] Open database .\data\poker_rooms.db successed (not an error).
+[12:22:04] Connection request has been accepted (id: 237 from: 127.0.0.1:3869).
+[12:22:04] Open database :memory: successed (not an error).
+[12:22:04] Connection request has been accepted (id: 238 from: 127.0.0.1:3870).
+[12:22:04] Open database .\data\poker_users.db successed (not an error).
+[12:26:05] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[12:26:06] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[12:41:51] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[12:44:19] Network connection error (id: 236 errno: 10054).
+[12:44:19] Database .\data\poker_rooms.db is not used, release handle.
+[12:44:19] Network connection error (id: 237 errno: 10054).
+[12:44:19] Database :memory: is not used, release handle.
+[12:44:19] Network connection error (id: 238 errno: 10054).
+[12:44:19] Database .\data\poker_users.db is not used, release handle.
+[16:13:32] Connection request has been accepted (id: 239 from: 127.0.0.1:4206).
+[16:13:32] Open database .\data\poker_rooms.db successed (not an error).
+[16:13:32] Connection request has been accepted (id: 240 from: 127.0.0.1:4208).
+[16:13:32] Open database :memory: successed (not an error).
+[16:13:34] Network connection error (id: 239 errno: 10054).
+[16:13:34] Database .\data\poker_rooms.db is not used, release handle.
+[16:13:34] Network connection error (id: 240 errno: 10054).
+[16:13:34] Database :memory: is not used, release handle.
+[16:13:36] Connection request has been accepted (id: 241 from: 127.0.0.1:4209).
+[16:13:36] Open database .\data\poker_rooms.db successed (not an error).
+[16:13:36] Connection request has been accepted (id: 242 from: 127.0.0.1:4211).
+[16:13:36] Open database :memory: successed (not an error).
+[16:13:42] Network connection error (id: 241 errno: 10054).
+[16:13:42] Database .\data\poker_rooms.db is not used, release handle.
+[16:13:42] Network connection error (id: 242 errno: 10054).
+[16:13:42] Database :memory: is not used, release handle.
+[16:14:16] Connection request has been accepted (id: 243 from: 127.0.0.1:4212).
+[16:14:16] Open database .\data\poker_rooms.db successed (not an error).
+[16:14:16] Connection request has been accepted (id: 244 from: 127.0.0.1:4214).
+[16:14:16] Open database :memory: successed (not an error).
+[16:14:37] Connection request has been accepted (id: 245 from: 127.0.0.1:4215).
+[16:14:37] Open database .\data\poker_users.db successed (not an error).
+[16:15:05] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:15:08] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:18:25] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[16:18:29] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[16:21:23] Network connection error (id: 243 errno: 10054).
+[16:21:23] Database .\data\poker_rooms.db is not used, release handle.
+[16:21:23] Network connection error (id: 244 errno: 10054).
+[16:21:23] Database :memory: is not used, release handle.
+[16:21:23] Network connection error (id: 245 errno: 10054).
+[16:21:23] Database .\data\poker_users.db is not used, release handle.
+[16:21:30] Connection request has been accepted (id: 246 from: 127.0.0.1:4236).
+[16:21:31] Open database .\data\poker_rooms.db successed (not an error).
+[16:21:31] Connection request has been accepted (id: 247 from: 127.0.0.1:4238).
+[16:21:31] Open database :memory: successed (not an error).
+[16:21:31] Connection request has been accepted (id: 248 from: 127.0.0.1:4239).
+[16:21:31] Open database .\data\poker_users.db successed (not an error).
+[16:22:53] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:22:57] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:23:02] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:24:21] Network connection error (id: 246 errno: 10054).
+[16:24:21] Database .\data\poker_rooms.db is not used, release handle.
+[16:24:21] Network connection error (id: 247 errno: 10054).
+[16:24:21] Database :memory: is not used, release handle.
+[16:24:21] Network connection error (id: 248 errno: 10054).
+[16:24:21] Database .\data\poker_users.db is not used, release handle.
+[16:24:29] Connection request has been accepted (id: 249 from: 127.0.0.1:4247).
+[16:24:29] Open database .\data\poker_rooms.db successed (not an error).
+[16:24:29] Connection request has been accepted (id: 250 from: 127.0.0.1:4249).
+[16:24:29] Open database :memory: successed (not an error).
+[16:24:29] Connection request has been accepted (id: 251 from: 127.0.0.1:4250).
+[16:24:29] Open database .\data\poker_users.db successed (not an error).
+[16:25:19] Network connection error (id: 249 errno: 10054).
+[16:25:19] Database .\data\poker_rooms.db is not used, release handle.
+[16:25:19] Network connection error (id: 250 errno: 10054).
+[16:25:19] Database :memory: is not used, release handle.
+[16:25:19] Network connection error (id: 251 errno: 10054).
+[16:25:19] Database .\data\poker_users.db is not used, release handle.
+[16:25:21] Connection request has been accepted (id: 252 from: 127.0.0.1:4255).
+[16:25:21] Open database .\data\poker_rooms.db successed (not an error).
+[16:25:21] Connection request has been accepted (id: 253 from: 127.0.0.1:4257).
+[16:25:21] Open database :memory: successed (not an error).
+[16:25:21] Connection request has been accepted (id: 254 from: 127.0.0.1:4258).
+[16:25:21] Open database .\data\poker_users.db successed (not an error).
+[16:25:47] Network connection error (id: 252 errno: 10054).
+[16:25:47] Database .\data\poker_rooms.db is not used, release handle.
+[16:25:47] Network connection error (id: 253 errno: 10054).
+[16:25:47] Database :memory: is not used, release handle.
+[16:25:47] Network connection error (id: 254 errno: 10054).
+[16:25:47] Database .\data\poker_users.db is not used, release handle.
+[16:25:54] Connection request has been accepted (id: 255 from: 127.0.0.1:4260).
+[16:25:54] Open database .\data\poker_rooms.db successed (not an error).
+[16:25:54] Connection request has been accepted (id: 256 from: 127.0.0.1:4262).
+[16:25:54] Open database :memory: successed (not an error).
+[16:25:56] Connection request has been accepted (id: 257 from: 127.0.0.1:4263).
+[16:25:56] Open database .\data\poker_users.db successed (not an error).
+[16:26:46] Network connection error (id: 255 errno: 10054).
+[16:26:46] Network connection error (id: 256 errno: 10054).
+[16:26:46] Database :memory: is not used, release handle.
+[16:26:46] Network connection error (id: 257 errno: 10054).
+[16:26:46] Database .\data\poker_users.db is not used, release handle.
+[16:26:46] Database .\data\poker_rooms.db is not used, release handle.
+[16:26:54] Connection request has been accepted (id: 258 from: 127.0.0.1:4265).
+[16:26:54] Open database .\data\poker_rooms.db successed (not an error).
+[16:26:54] Connection request has been accepted (id: 259 from: 127.0.0.1:4267).
+[16:26:54] Open database :memory: successed (not an error).
+[16:26:54] Connection request has been accepted (id: 260 from: 127.0.0.1:4268).
+[16:26:54] Open database .\data\poker_users.db successed (not an error).
+[16:28:06] Network connection error (id: 258 errno: 10054).
+[16:28:06] Database .\data\poker_rooms.db is not used, release handle.
+[16:28:06] Network connection error (id: 259 errno: 10054).
+[16:28:06] Database :memory: is not used, release handle.
+[16:28:06] Network connection error (id: 260 errno: 10054).
+[16:28:06] Database .\data\poker_users.db is not used, release handle.
+[16:28:35] Connection request has been accepted (id: 261 from: 127.0.0.1:4270).
+[16:28:35] Open database .\data\poker_rooms.db successed (not an error).
+[16:28:35] Connection request has been accepted (id: 262 from: 127.0.0.1:4272).
+[16:28:35] Open database :memory: successed (not an error).
+[16:28:35] Connection request has been accepted (id: 263 from: 127.0.0.1:4273).
+[16:28:35] Open database .\data\poker_users.db successed (not an error).
+[16:29:06] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:29:15] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:29:17] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:29:18] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:29:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:31:29] Network connection error (id: 261 errno: 10054).
+[16:31:29] Database .\data\poker_rooms.db is not used, release handle.
+[16:31:29] Network connection error (id: 262 errno: 10054).
+[16:31:29] Database :memory: is not used, release handle.
+[16:31:29] Network connection error (id: 263 errno: 10054).
+[16:31:29] Database .\data\poker_users.db is not used, release handle.
+[16:31:35] Connection request has been accepted (id: 264 from: 127.0.0.1:4275).
+[16:31:35] Open database .\data\poker_rooms.db successed (not an error).
+[16:31:35] Connection request has been accepted (id: 265 from: 127.0.0.1:4277).
+[16:31:35] Open database :memory: successed (not an error).
+[16:31:35] Connection request has been accepted (id: 266 from: 127.0.0.1:4278).
+[16:31:35] Open database .\data\poker_users.db successed (not an error).
+[16:31:43] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:31:46] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:31:46] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:31:47] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:31:48] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:33:05] Network connection error (id: 264 errno: 10054).
+[16:33:05] Database .\data\poker_rooms.db is not used, release handle.
+[16:33:05] Network connection error (id: 265 errno: 10054).
+[16:33:05] Database :memory: is not used, release handle.
+[16:33:05] Network connection error (id: 266 errno: 10054).
+[16:33:05] Database .\data\poker_users.db is not used, release handle.
+[16:33:12] Connection request has been accepted (id: 267 from: 127.0.0.1:4279).
+[16:33:12] Open database .\data\poker_rooms.db successed (not an error).
+[16:33:12] Connection request has been accepted (id: 268 from: 127.0.0.1:4281).
+[16:33:12] Open database :memory: successed (not an error).
+[16:33:12] Connection request has been accepted (id: 269 from: 127.0.0.1:4282).
+[16:33:12] Open database .\data\poker_users.db successed (not an error).
+[16:33:23] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:33:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:33:26] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:33:27] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:33:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:33:49] Network connection error (id: 267 errno: 10054).
+[16:33:49] Database .\data\poker_rooms.db is not used, release handle.
+[16:33:49] Network connection error (id: 268 errno: 10054).
+[16:33:49] Database :memory: is not used, release handle.
+[16:33:49] Network connection error (id: 269 errno: 10054).
+[16:33:49] Database .\data\poker_users.db is not used, release handle.
+[16:33:56] Connection request has been accepted (id: 270 from: 127.0.0.1:4285).
+[16:33:56] Open database .\data\poker_rooms.db successed (not an error).
+[16:33:56] Connection request has been accepted (id: 271 from: 127.0.0.1:4287).
+[16:33:56] Open database :memory: successed (not an error).
+[16:33:56] Connection request has been accepted (id: 272 from: 127.0.0.1:4288).
+[16:33:56] Open database .\data\poker_users.db successed (not an error).
+[16:34:00] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:34:01] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:34:02] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:34:03] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:34:04] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:35:10] Network connection error (id: 270 errno: 10054).
+[16:35:10] Database .\data\poker_rooms.db is not used, release handle.
+[16:35:10] Network connection error (id: 271 errno: 10054).
+[16:35:10] Database :memory: is not used, release handle.
+[16:35:10] Network connection error (id: 272 errno: 10054).
+[16:35:10] Database .\data\poker_users.db is not used, release handle.
+[16:35:11] Connection request has been accepted (id: 273 from: 127.0.0.1:4293).
+[16:35:11] Open database .\data\poker_rooms.db successed (not an error).
+[16:35:11] Connection request has been accepted (id: 274 from: 127.0.0.1:4295).
+[16:35:11] Open database :memory: successed (not an error).
+[16:35:11] Connection request has been accepted (id: 275 from: 127.0.0.1:4296).
+[16:35:11] Open database .\data\poker_users.db successed (not an error).
+[16:35:22] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:35:24] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:35:29] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:35:30] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:35:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:38:00] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[16:38:00] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+
+[16:39:13] Network connection error (id: 273 errno: 10054).
+[16:39:13] Network connection error (id: 274 errno: 10054).
+[16:39:13] Database .\data\poker_rooms.db is not used, release handle.
+[16:39:13] Database :memory: is not used, release handle.
+[16:39:13] Network connection error (id: 275 errno: 10054).
+[16:39:13] Database .\data\poker_users.db is not used, release handle.
+[16:39:43] Connection request has been accepted (id: 276 from: 127.0.0.1:4298).
+[16:39:43] Open database .\data\poker_rooms.db successed (not an error).
+[16:39:44] Connection request has been accepted (id: 277 from: 127.0.0.1:4300).
+[16:39:44] Open database :memory: successed (not an error).
+[16:39:44] Connection request has been accepted (id: 278 from: 127.0.0.1:4301).
+[16:39:44] Open database .\data\poker_users.db successed (not an error).
+[16:39:45] Network connection error (id: 276 errno: 10054).
+[16:39:45] Database .\data\poker_rooms.db is not used, release handle.
+[16:39:45] Network connection error (id: 277 errno: 10054).
+[16:39:45] Database :memory: is not used, release handle.
+[16:39:45] Network connection error (id: 278 errno: 10054).
+[16:39:45] Database .\data\poker_users.db is not used, release handle.
+[16:40:17] Connection request has been accepted (id: 279 from: 127.0.0.1:4302).
+[16:40:17] Open database .\data\poker_rooms.db successed (not an error).
+[16:40:17] Connection request has been accepted (id: 280 from: 127.0.0.1:4304).
+[16:40:17] Open database :memory: successed (not an error).
+[16:40:17] Connection request has been accepted (id: 281 from: 127.0.0.1:4305).
+[16:40:17] Open database .\data\poker_users.db successed (not an error).
+[16:40:25] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:40:28] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:40:30] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:40:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:40:34] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:42:22] Network connection error (id: 279 errno: 10054).
+[16:42:22] Database .\data\poker_rooms.db is not used, release handle.
+[16:42:22] Network connection error (id: 280 errno: 10054).
+[16:42:22] Database :memory: is not used, release handle.
+[16:42:22] Network connection error (id: 281 errno: 10054).
+[16:42:22] Database .\data\poker_users.db is not used, release handle.
+[16:42:24] Connection request has been accepted (id: 282 from: 127.0.0.1:4307).
+[16:42:24] Open database .\data\poker_rooms.db successed (not an error).
+[16:42:24] Connection request has been accepted (id: 283 from: 127.0.0.1:4309).
+[16:42:24] Open database :memory: successed (not an error).
+[16:42:24] Connection request has been accepted (id: 284 from: 127.0.0.1:4310).
+[16:42:24] Open database .\data\poker_users.db successed (not an error).
+[16:42:30] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100502
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:42:31] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100291
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:42:31] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100958
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:42:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100616
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:42:32] STEP insert into [room_interim]([number],[game],[rule],[creater],[exit],[context]) values(?,?,?,?,?,?) failed (db: poker_rooms error: SQL logic error or missing database).
+ bind[00]: 100465
+ bind[01]: 2
+ bind[02]: 1
+ bind[03]: 102018
+ bind[04]: 0
+ bind[05]: {"option":{"game":2,"hongtao":true,"zhadan":0,"type":1,"jushu":1,"sidai":1,"fangfei":0,"renshu":0,"wanfa":1,"showleft":true}}
+
+
+[16:45:36] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102018
+ bind[01]: peng
+ bind[02]: peng
+ bind[03]: 10.211.55.2
+
+[16:45:36] STEP insert into [user_session]([uuid],[unionid],[nickname],[ipaddr]) values(?, ?, ?, ?) failed (db: memory error: SQL logic error or missing database).
+ bind[00]: 102019
+ bind[01]: peng1
+ bind[02]: peng1
+ bind[03]: 10.211.55.2
+

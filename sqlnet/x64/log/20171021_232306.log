@@ -1,0 +1,8 @@
+[23:23:06] Network connection error (id: 181 errno: 10054).
+[23:23:06] Database :memory: is not used, release handle.
+[23:23:06] Network connection error (id: 182 errno: 10054).
+[23:23:06] Database .\data\poker_users.db is not used, release handle.
+[23:23:06] Network connection error (id: 183 errno: 10054).
+[23:23:06] Database .\data\poker_record.db is not used, release handle.
+[23:23:06] Network connection error (id: 180 errno: 10054).
+[23:23:06] Database .\data\poker_rooms.db is not used, release handle.

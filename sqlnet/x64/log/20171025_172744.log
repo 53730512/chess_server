@@ -1,0 +1,22 @@
+[17:27:44] Network connection error (id: 319 errno: 10054).
+[17:27:44] Database .\data\poker_rooms.db is not used, release handle.
+[17:27:44] Network connection error (id: 320 errno: 10054).
+[17:27:44] Database :memory: is not used, release handle.
+[17:27:44] Network connection error (id: 321 errno: 10054).
+[17:27:44] Database .\data\poker_users.db is not used, release handle.
+[17:27:47] Connection request has been accepted (id: 322 from: 127.0.0.1:19951).
+[17:27:47] Open database .\data\poker_rooms.db successed (not an error).
+[17:27:47] Connection request has been accepted (id: 323 from: 127.0.0.1:19953).
+[17:27:48] Open database :memory: successed (not an error).
+[17:28:47] Connection request has been accepted (id: 324 from: 127.0.0.1:20042).
+[17:28:48] Open database .\data\poker_record.db successed (not an error).
+[17:30:36] Connection request has been accepted (id: 325 from: 127.0.0.1:20127).
+[17:30:36] Open database .\data\poker_users.db successed (not an error).
+[18:22:14] Network connection error (id: 322 errno: 10054).
+[18:22:14] Database .\data\poker_rooms.db is not used, release handle.
+[18:22:14] Network connection error (id: 323 errno: 10054).
+[18:22:14] Database :memory: is not used, release handle.
+[18:22:14] Network connection error (id: 325 errno: 10054).
+[18:22:14] Database .\data\poker_users.db is not used, release handle.
+[18:22:14] Network connection error (id: 324 errno: 10054).
+[18:22:14] Database .\data\poker_record.db is not used, release handle.

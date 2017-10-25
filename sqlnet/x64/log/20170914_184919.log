@@ -1,0 +1,6 @@
+[18:49:19] Connection request has been accepted (id: 108 from: 127.0.0.1:15833).
+[18:49:19] Open database .\data\poker_rooms.db successed (not an error).
+[18:49:19] Connection request has been accepted (id: 109 from: 127.0.0.1:15835).
+[18:49:19] Open database :memory: successed (not an error).
+[18:53:33] Connection request has been accepted (id: 110 from: 127.0.0.1:15872).
+[18:53:33] Open database .\data\poker_users.db successed (not an error).
